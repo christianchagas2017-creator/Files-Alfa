@@ -1,0 +1,173 @@
+07:35:17 [ServerList] JoinServer offline
+07:36:18 [ServerList] JoinServer offline
+07:36:18 [ServerList] JoinServer online
+07:41:18 [ServerList] JoinServer offline
+07:41:18 [ServerList] GameServer offline (Sala Spots) (1)
+07:41:18 [ServerList] JoinServer online
+07:41:18 [ServerList] GameServer online (Sala Spots) (1)
+07:42:18 [ServerList] JoinServer offline
+07:42:18 [ServerList] GameServer offline (Sala Spots) (1)
+07:42:18 [ServerList] JoinServer online
+07:42:18 [ServerList] GameServer online (Sala Spots) (1)
+07:47:18 [ServerList] GameServer offline (Sala Spots) (1)
+07:47:18 [ServerList] GameServer online (Sala Spots) (1)
+07:48:19 [ServerList] JoinServer offline
+07:48:19 [ServerList] GameServer offline (Sala Spots) (1)
+07:48:19 [ServerList] JoinServer online
+07:48:19 [ServerList] GameServer online (Sala Spots) (1)
+07:53:19 [ServerList] JoinServer offline
+07:53:19 [ServerList] GameServer offline (Sala Spots) (1)
+07:53:19 [ServerList] JoinServer online
+07:53:19 [ServerList] GameServer online (Sala Spots) (1)
+07:54:19 [ServerList] GameServer offline (Sala Spots) (1)
+07:54:19 [ServerList] GameServer online (Sala Spots) (1)
+07:59:19 [ServerList] JoinServer offline
+07:59:19 [ServerList] GameServer offline (Sala Spots) (1)
+07:59:19 [ServerList] JoinServer online
+07:59:19 [ServerList] GameServer online (Sala Spots) (1)
+08:00:20 [ServerList] GameServer offline (Sala Spots) (1)
+08:00:20 [ServerList] GameServer online (Sala Spots) (1)
+08:05:20 [ServerList] JoinServer offline
+08:05:20 [ServerList] GameServer offline (Sala Spots) (1)
+08:05:20 [ServerList] GameServer online (Sala Spots) (1)
+08:05:20 [ServerList] JoinServer online
+08:06:20 [ServerList] GameServer offline (Sala Spots) (1)
+08:06:20 [ServerList] GameServer online (Sala Spots) (1)
+08:12:21 [ServerList] JoinServer offline
+08:12:21 [ServerList] GameServer offline (Sala Spots) (1)
+08:12:21 [ServerList] JoinServer online
+08:12:21 [ServerList] GameServer online (Sala Spots) (1)
+08:19:21 [ServerList] GameServer offline (Sala Spots) (1)
+08:19:21 [ServerList] GameServer online (Sala Spots) (1)
+08:24:22 [ServerList] JoinServer offline
+08:24:22 [ServerList] GameServer offline (Sala Spots) (1)
+08:24:22 [ServerList] JoinServer online
+08:24:22 [ServerList] GameServer online (Sala Spots) (1)
+08:25:22 [ServerList] GameServer offline (Sala Spots) (1)
+08:25:22 [ServerList] GameServer online (Sala Spots) (1)
+08:30:22 [ServerList] JoinServer offline
+08:30:22 [ServerList] GameServer offline (Sala Spots) (1)
+08:30:22 [ServerList] GameServer online (Sala Spots) (1)
+08:30:22 [ServerList] JoinServer online
+08:31:23 [ServerList] JoinServer offline
+08:31:23 [ServerList] GameServer offline (Sala Spots) (1)
+08:31:23 [ServerList] GameServer online (Sala Spots) (1)
+08:31:23 [ServerList] JoinServer online
+08:36:23 [ServerList] JoinServer offline
+08:36:23 [ServerList] GameServer offline (Sala Spots) (1)
+08:36:23 [ServerList] GameServer online (Sala Spots) (1)
+08:36:23 [ServerList] JoinServer online
+08:37:23 [ServerList] JoinServer offline
+08:37:23 [ServerList] GameServer offline (Sala Spots) (1)
+08:37:23 [ServerList] GameServer online (Sala Spots) (1)
+08:37:23 [ServerList] JoinServer online
+08:42:23 [ServerList] GameServer offline (Sala Spots) (1)
+08:42:23 [ServerList] GameServer online (Sala Spots) (1)
+08:43:24 [ServerList] JoinServer offline
+08:43:24 [ServerList] GameServer offline (Sala Spots) (1)
+08:43:24 [ServerList] GameServer online (Sala Spots) (1)
+08:43:24 [ServerList] JoinServer online
+08:48:24 [ServerList] GameServer offline (Sala Spots) (1)
+08:48:24 [ServerList] GameServer online (Sala Spots) (1)
+08:49:24 [ServerList] JoinServer offline
+08:49:24 [ServerList] GameServer offline (Sala Spots) (1)
+08:49:24 [ServerList] JoinServer online
+08:49:24 [ServerList] GameServer online (Sala Spots) (1)
+08:54:25 [ServerList] JoinServer offline
+08:54:25 [ServerList] GameServer offline (Sala Spots) (1)
+08:54:25 [ServerList] GameServer online (Sala Spots) (1)
+08:54:25 [ServerList] JoinServer online
+08:55:25 [ServerList] JoinServer offline
+08:55:25 [ServerList] GameServer offline (Sala Spots) (1)
+08:55:25 [ServerList] JoinServer online
+08:55:25 [ServerList] GameServer online (Sala Spots) (1)
+09:00:25 [ServerList] GameServer offline (Sala Spots) (1)
+09:00:25 [ServerList] GameServer online (Sala Spots) (1)
+09:01:25 [ServerList] GameServer offline (Sala Spots) (1)
+09:01:25 [ServerList] GameServer online (Sala Spots) (1)
+09:02:25 [ServerList] GameServer offline (Sala Spots) (1)
+09:02:25 [ServerList] GameServer online (Sala Spots) (1)
+09:07:26 [ServerList] JoinServer offline
+09:07:26 [ServerList] GameServer offline (Sala Spots) (1)
+09:07:26 [ServerList] GameServer online (Sala Spots) (1)
+09:07:26 [ServerList] JoinServer online
+09:08:26 [ServerList] JoinServer offline
+09:08:26 [ServerList] GameServer offline (Sala Spots) (1)
+09:08:26 [ServerList] GameServer online (Sala Spots) (1)
+09:08:26 [ServerList] JoinServer online
+09:13:26 [ServerList] JoinServer offline
+09:13:26 [ServerList] GameServer offline (Sala Spots) (1)
+09:13:26 [ServerList] GameServer online (Sala Spots) (1)
+09:13:26 [ServerList] JoinServer online
+09:14:26 [ServerList] JoinServer offline
+09:14:26 [ServerList] GameServer offline (Sala Spots) (1)
+09:14:26 [ServerList] JoinServer online
+09:14:26 [ServerList] GameServer online (Sala Spots) (1)
+09:20:27 [ServerList] JoinServer offline
+09:20:27 [ServerList] GameServer offline (Sala Spots) (1)
+09:20:27 [ServerList] JoinServer online
+09:20:27 [ServerList] GameServer online (Sala Spots) (1)
+09:27:28 [ServerList] JoinServer offline
+09:27:28 [ServerList] JoinServer online
+09:34:28 [ServerList] GameServer offline (Sala Spots) (1)
+09:34:28 [ServerList] GameServer online (Sala Spots) (1)
+09:40:29 [ServerList] JoinServer offline
+09:40:29 [ServerList] JoinServer online
+09:41:29 [ServerList] JoinServer offline
+09:41:29 [ServerList] GameServer offline (Sala Spots) (1)
+09:41:29 [ServerList] JoinServer online
+09:41:29 [ServerList] GameServer online (Sala Spots) (1)
+09:46:01 [ServerList] JoinServer offline
+09:46:01 [ServerList] GameServer offline (Sala Spots) (1)
+09:46:01 [ServerList] JoinServer online
+09:46:01 [ServerList] GameServer online (Sala Spots) (1)
+22:56:15 [ServerList] JoinServer offline
+22:56:15 [ServerList] JoinServer online
+23:01:17 [ServerList] GameServer offline (Sala Spots) (1)
+23:01:17 [ServerList] GameServer online (Sala Spots) (1)
+23:02:17 [ServerList] JoinServer offline
+23:02:17 [ServerList] GameServer offline (Sala Spots) (1)
+23:02:17 [ServerList] JoinServer online
+23:02:17 [ServerList] GameServer online (Sala Spots) (1)
+23:09:17 [ServerList] JoinServer offline
+23:09:17 [ServerList] GameServer offline (Sala Spots) (1)
+23:09:17 [ServerList] JoinServer online
+23:09:17 [ServerList] GameServer online (Sala Spots) (1)
+23:14:18 [ServerList] JoinServer offline
+23:14:18 [ServerList] GameServer offline (Sala Spots) (1)
+23:14:18 [ServerList] GameServer online (Sala Spots) (1)
+23:14:18 [ServerList] JoinServer online
+23:15:18 [ServerList] JoinServer offline
+23:15:18 [ServerList] GameServer offline (Sala Spots) (1)
+23:15:18 [ServerList] JoinServer online
+23:15:18 [ServerList] GameServer online (Sala Spots) (1)
+23:21:18 [ServerList] GameServer offline (Sala Spots) (1)
+23:21:18 [ServerList] GameServer online (Sala Spots) (1)
+23:22:18 [ServerList] JoinServer offline
+23:22:18 [ServerList] GameServer offline (Sala Spots) (1)
+23:22:18 [ServerList] JoinServer online
+23:22:18 [ServerList] GameServer online (Sala Spots) (1)
+23:28:19 [ServerList] JoinServer offline
+23:28:19 [ServerList] GameServer offline (Sala Spots) (1)
+23:28:19 [ServerList] JoinServer online
+23:28:19 [ServerList] GameServer online (Sala Spots) (1)
+23:29:19 [ServerList] JoinServer offline
+23:29:19 [ServerList] GameServer offline (Sala Spots) (1)
+23:29:19 [ServerList] JoinServer online
+23:29:19 [ServerList] GameServer online (Sala Spots) (1)
+23:34:19 [ServerList] JoinServer offline
+23:34:19 [ServerList] GameServer offline (Sala Spots) (1)
+23:34:19 [ServerList] JoinServer online
+23:34:19 [ServerList] GameServer online (Sala Spots) (1)
+23:35:20 [ServerList] JoinServer offline
+23:35:20 [ServerList] GameServer offline (Sala Spots) (1)
+23:35:20 [ServerList] JoinServer online
+23:35:20 [ServerList] GameServer online (Sala Spots) (1)
+23:40:20 [ServerList] GameServer offline (Sala Spots) (1)
+23:40:20 [ServerList] GameServer online (Sala Spots) (1)
+23:41:20 [ServerList] JoinServer offline
+23:41:20 [ServerList] GameServer offline (Sala Spots) (1)
+23:41:20 [ServerList] JoinServer online
+23:41:20 [ServerList] GameServer online (Sala Spots) (1)
+23:44:00 [ServerList] GameServer offline (Sala Spots) (1)
+23:44:00 [ServerList] GameServer online (Sala Spots) (1)

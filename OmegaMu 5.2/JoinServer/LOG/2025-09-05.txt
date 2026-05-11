@@ -1,0 +1,34 @@
+00:58:57 [ServerManager][1] AddServer (127.0.0.1)
+00:58:57 [ServerManager][1] ServerInfo (Sala Spots) (55995) (21)
+00:59:44 [ServerManager][1] DelServer (127.0.0.1)
+14:17:44 [SocketManager] Server started at port [55970]
+14:18:03 [ServerManager][0] AddServer (127.0.0.1)
+14:18:03 [ServerManager][0] ServerInfo (Sala Principal) (55994) (6)
+23:08:20 [SocketManager] Server started at port [55970]
+23:08:51 [ServerManager][0] AddServer (127.0.0.1)
+23:08:51 [ServerManager][0] ServerInfo (Sala Principal) (55994) (6)
+23:10:24 [ServerManager][0] DelServer (127.0.0.1)
+23:10:55 [ServerManager][0] AddServer (127.0.0.1)
+23:10:55 [ServerManager][0] ServerInfo (Sala Principal) (55994) (6)
+23:11:17 [ServerManager][0] DelServer (127.0.0.1)
+23:12:06 [ServerManager][0] AddServer (127.0.0.1)
+23:12:06 [ServerManager][0] ServerInfo (Sala Principal) (55994) (6)
+23:12:53 [SocketManager] Server started at port [55970]
+23:13:12 [ServerManager][0] AddServer (127.0.0.1)
+23:13:12 [ServerManager][0] ServerInfo (Sala Principal) (55994) (6)
+23:13:18 [ServerManager][0] DelServer (127.0.0.1)
+23:13:34 [ServerManager][0] AddServer (127.0.0.1)
+23:13:34 [ServerManager][0] ServerInfo (Sala Principal) (55994) (6)
+23:13:37 [ServerManager][0] DelServer (127.0.0.1)
+23:14:07 [ServerManager][0] AddServer (127.0.0.1)
+23:14:07 [ServerManager][0] ServerInfo (Sala Principal) (55994) (6)
+23:50:15 [ServerManager][1] AddServer (127.0.0.1)
+23:50:15 [ServerManager][1] ServerInfo (Sala Spots) (55995) (21)
+23:52:02 [ServerManager][1] DelServer (127.0.0.1)
+23:55:05 [ServerManager][0] DelServer (127.0.0.1)
+23:56:04 Could not connect to database
+23:57:10 [SocketManager] Server started at port [55970]
+23:57:10 [ServerManager][0] AddServer (127.0.0.1)
+23:57:10 [ServerManager][0] ServerInfo (Sala Principal) (55994) (6)
+23:58:54 Could not connect to database
+23:59:59 Could not connect to database

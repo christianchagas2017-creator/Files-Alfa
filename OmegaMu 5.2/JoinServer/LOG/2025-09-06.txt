@@ -1,0 +1,5 @@
+00:00:56 Could not connect to database
+00:01:53 Could not connect to database
+00:02:21 [SocketManager] Server started at port [55970]
+00:03:32 [ServerManager][0] AddServer (127.0.0.1)
+00:03:32 [ServerManager][0] ServerInfo (Sala Principal) (55994) (6)

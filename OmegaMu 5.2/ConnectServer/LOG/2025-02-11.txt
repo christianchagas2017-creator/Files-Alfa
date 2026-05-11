@@ -1,0 +1,37 @@
+00:04:18 [SocketManager] Server started at port [44490]
+00:04:18 [ServerList] ServerList loaded successfully
+00:04:23 [ServerList] JoinServer online
+00:04:26 [ServerList] GameServer online (Sala Spots) (1)
+00:22:52 [SocketManager] Server started at port [44490]
+00:22:52 [ServerList] ServerList loaded successfully
+00:22:57 [ServerList] JoinServer online
+00:23:01 [ServerList] GameServer online (Sala Spots) (1)
+00:24:51 [SocketManager] Server started at port [44490]
+00:24:51 [ServerList] ServerList loaded successfully
+00:24:56 [ServerList] JoinServer online
+00:24:58 [ServerList] GameServer online (Sala Spots) (1)
+00:30:01 [SocketManager] Server started at port [44490]
+00:30:01 [ServerList] ServerList loaded successfully
+00:30:11 [ServerList] JoinServer online
+00:30:15 [ServerList] GameServer online (Sala Spots) (1)
+00:40:06 [ServerList] GameServer offline (Sala Spots) (1)
+00:40:07 [ServerList] GameServer online (Sala Spots) (1)
+06:25:11 [SocketManager] Protocol header error (Index: 0, Header: 3)
+11:49:47 [ServerList] GameServer offline (Sala Spots) (1)
+11:49:52 [ServerList] GameServer online (Sala Spots) (1)
+20:42:02 [ServerList] GameServer offline (Sala Spots) (1)
+20:42:18 [ServerList] GameServer online (Sala Spots) (1)
+21:42:03 [ServerList] GameServer offline (Sala Spots) (1)
+21:42:47 [ServerList] GameServer online (Sala Spots) (1)
+21:45:01 [ServerList] GameServer offline (Sala Spots) (1)
+21:46:30 [ServerList] GameServer online (Sala Spots) (1)
+21:49:07 [ServerList] GameServer offline (Sala Spots) (1)
+21:49:15 [ServerList] GameServer online (Sala Spots) (1)
+21:51:00 [ServerList] GameServer offline (Sala Spots) (1)
+21:51:39 [ServerList] GameServer online (Sala Spots) (1)
+23:01:31 [ServerList] GameServer offline (Sala Spots) (1)
+23:02:37 [ServerList] GameServer online (Sala Spots) (1)
+23:09:14 [ServerList] GameServer offline (Sala Spots) (1)
+23:09:17 [ServerList] GameServer online (Sala Spots) (1)
+23:14:56 [ServerList] GameServer offline (Sala Spots) (1)
+23:15:04 [ServerList] GameServer online (Sala Spots) (1)

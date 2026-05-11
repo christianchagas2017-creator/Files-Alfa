@@ -1,0 +1,57 @@
+19:13:30 [SocketManager] Server started at port [44490]
+19:13:30 [ServerList] ServerList loaded successfully
+19:13:44 [SocketManager] Server started at port [44490]
+19:13:44 [ServerList] ServerList loaded successfully
+19:14:03 [ServerList] JoinServer online
+19:16:42 [ServerList] GameServer online (Sala Principal) (6)
+19:43:07 [SocketManager] Server started at port [44490]
+19:43:07 [ServerList] ServerList loaded successfully
+19:43:10 [ServerList] JoinServer online
+19:43:12 [ServerList] GameServer online (Sala Principal) (6)
+20:17:31 [SocketManager] Server started at port [44490]
+20:17:31 [ServerList] ServerList loaded successfully
+20:17:34 [ServerList] JoinServer online
+20:19:02 [SocketManager] Server started at port [44490]
+20:19:02 [ServerList] ServerList loaded successfully
+20:19:06 [ServerList] JoinServer online
+20:19:07 [ServerList] GameServer online (Sala Principal) (6)
+20:22:43 [SocketManager] Server started at port [44490]
+20:22:43 [ServerList] ServerList loaded successfully
+20:22:47 [ServerList] JoinServer online
+20:22:48 [ServerList] GameServer online (Sala Principal) (6)
+20:35:55 [SocketManager] Server started at port [44490]
+20:35:55 [ServerList] ServerList loaded successfully
+20:35:58 [ServerList] JoinServer online
+20:36:00 [ServerList] GameServer online (Sala Principal) (6)
+20:36:29 [SocketManager] Server started at port [44490]
+20:36:29 [ServerList] ServerList loaded successfully
+20:36:32 [ServerList] JoinServer online
+20:36:33 [ServerList] GameServer online (Sala Principal) (6)
+20:53:52 [SocketManager] Server started at port [44490]
+20:53:52 [ServerList] ServerList loaded successfully
+20:53:56 [ServerList] JoinServer online
+20:53:57 [ServerList] GameServer online (Sala Principal) (6)
+20:58:32 [SocketManager] Server started at port [44490]
+20:58:32 [ServerList] ServerList loaded successfully
+20:58:36 [ServerList] JoinServer online
+20:58:37 [ServerList] GameServer online (Sala Principal) (6)
+21:07:34 [SocketManager] Server started at port [44490]
+21:07:34 [ServerList] ServerList loaded successfully
+21:07:37 [ServerList] JoinServer online
+21:07:38 [ServerList] GameServer online (Sala Principal) (6)
+21:10:35 [SocketManager] Server started at port [44490]
+21:10:35 [ServerList] ServerList loaded successfully
+21:10:39 [ServerList] JoinServer online
+21:10:40 [ServerList] GameServer online (Sala Principal) (6)
+21:13:19 [SocketManager] Server started at port [44490]
+21:13:19 [ServerList] ServerList loaded successfully
+21:13:22 [ServerList] JoinServer online
+21:13:23 [ServerList] GameServer online (Sala Principal) (6)
+21:20:42 [SocketManager] Server started at port [44490]
+21:20:42 [ServerList] ServerList loaded successfully
+21:20:45 [ServerList] JoinServer online
+21:20:47 [ServerList] GameServer online (Sala Principal) (6)
+21:23:39 [SocketManager] Server started at port [44490]
+21:23:39 [ServerList] ServerList loaded successfully
+21:23:43 [ServerList] JoinServer online
+21:23:44 [ServerList] GameServer online (Sala Principal) (6)

@@ -1,0 +1,77 @@
+FragmentStore_Config = {
+    Enabled = true,
+    Packet = 16,
+    WindowID = 299,
+
+    Discord = "",
+
+    --FragmentItem = GET_ITEM(14, 226),
+
+    FragmentItem = { ItemIndex = GET_ITEM(14, 431), X = 5, Y = 200,  Size = "2.7"},
+
+    Texts = {
+        ["Por"] = {
+            [1] = "Fragment Store",
+            [2] = "Fragments: %d",-- | Acumulado: %d",
+            [3] = "Fechar",
+            [4] = "%d Fragments",
+            [5] = "COMPRAR",
+            [6] = "REGISTRAR",
+            [7] = "Ao registrar os itens serão consumidos!",
+            [8] = "Clique OK para confirmar",
+            [9] = "Período do Evento:",
+            [10] = "Início: 14/02/2024 as 00:00:00",
+            [11] = "Termino: 10/03/2024 as 00:00:00",
+            [12] = "Saldo insuficiente para a compra",
+            [13] = "Não há espaço no inventário",
+            [14] = "Clique em OK para confimar a compra",
+            [15] = "OK",
+            [16] = "CANCELAR",
+            [17] = "Saiba mais",
+            [18] = "Item Requerido",
+        },
+        ["Eng"] = {
+            [1] = "Fragment Store",
+            [2] = "Fragments: %d",-- | Accumulated: %d",
+            [3] = "Close",
+            [4] = "%d Fragments",
+            [5] = "BUY",
+            [6] = "REGISTER",
+            [7] = "Registering items will consume them!",
+            [8] = "Click OK to confirm",
+            [9] = "Event Period:",
+            [10] = "Start: 02/14/2024 at 00:00:00",
+            [11] = "End: 03/10/2024 at 00:00:00",
+            [12] = "Insufficient balance for purchase",
+            [13] = "No inventory space",
+            [14] = "Click OK to confirm the purchase",
+            [15] = "OK",
+            [16] = "CANCEL",
+            [17] = "Learn more",
+            [18] = "Required Item",
+        },
+        ["Spn"] = {
+            [1] = "Fragment Store",
+            [2] = "Fragments: %d",-- | Acumulado: %d",
+            [3] = "Cerrar",
+            [4] = "%d Fragments",
+            [5] = "COMPRAR",
+            [6] = "REGISTRAR",
+            [7] = "¡Registrar los ítems los consumirá!",
+            [8] = "Haz clic en OK para confirmar",
+            [9] = "Período del Evento:",
+            [10] = "Inicio: 14/02/2024 a las 00:00:00",
+            [11] = "Fin: 10/03/2024 a las 00:00:00",
+            [12] = "Saldo insuficiente para la compra",
+            [13] = "No hay espacio en el inventario",
+            [14] = "Haga clic en Aceptar para confirmar la compra",
+            [15] = "Aceptar",
+            [16] = "CANCELAR",
+            [17] = "Más información",
+            [18] = "Objeto Requerido",
+        },
+    }
+
+}
+
+return FragmentStore_Config

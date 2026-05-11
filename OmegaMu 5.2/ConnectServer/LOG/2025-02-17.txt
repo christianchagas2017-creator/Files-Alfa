@@ -1,0 +1,4 @@
+03:05:26 [SocketManager] Server started at port [44490]
+03:05:26 [ServerList] ServerList loaded successfully
+03:05:32 [ServerList] JoinServer online
+03:05:38 [ServerList] GameServer online (Sala Spots) (1)

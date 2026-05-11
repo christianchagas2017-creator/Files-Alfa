@@ -1,0 +1,4 @@
+0
+//Index   ItemIndex   MinItemLevel   MaxItemLevel   MaxItemOption1   MaxItemOption2   MinItemOption3   MaxItemOption3   MinItemNewOption   MaxItemNewOption   MaxItemSetOption   MinItemSocketOption   MaxItemSocketOption   EnableSlotWeapon   EnableSlotArmor   EnableSlotWing   SuccessRate_AL0   SuccessRate_AL1   SuccessRate_AL2   SuccessRate_AL3   SalePrice  Directory 						ModelName		Type (0 bmd, 1 pld)
+  0      7373        0				 15             *                *                *                *                *                  *                  *                  *                     *                     *                  *                 *                100                100               100               100               10000     "Data\\Custom\\Itens\\Item\\"  	"Refinary"		  0 //Jewel of Full
+end

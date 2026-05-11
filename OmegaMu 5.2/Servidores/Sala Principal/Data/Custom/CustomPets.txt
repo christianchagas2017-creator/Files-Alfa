@@ -1,0 +1,8 @@
+0
+// Index   Type      Movement       Height      Size         Model             Object
+6806       4          0        	 1.0        1.00		"FR_6"	          "fenril_red"
+7027       4          0        	 1.0        1.00		"Dragon372"	          "Dragon372"
+7025       4          0        	 1.0        1.00		"horsehel"	          "horsehel"
+
+
+end

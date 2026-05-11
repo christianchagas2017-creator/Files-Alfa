@@ -1,0 +1,36 @@
+03:45:54 [SocketManager] Server started at port [44490]
+03:45:54 [ServerList] ServerList loaded successfully
+03:46:03 [SocketManager] Server started at port [44490]
+03:46:03 [ServerList] ServerList loaded successfully
+03:46:26 [ServerList] JoinServer online
+03:46:48 [ServerList] GameServer online (Sala Principal) (6)
+03:47:01 [ServerList] GameServer offline (Sala Principal) (6)
+03:47:23 [ServerList] GameServer online (Sala Principal) (6)
+03:48:05 [ServerList] GameServer offline (Sala Principal) (6)
+03:48:27 [ServerList] GameServer online (Sala Principal) (6)
+15:08:09 [SocketManager] Server started at port [44490]
+15:08:09 [ServerList] ServerList loaded successfully
+15:09:06 [SocketManager] Server started at port [44490]
+15:09:06 [ServerList] ServerList loaded successfully
+15:09:26 [ServerList] JoinServer online
+15:09:32 [ServerList] GameServer online (Sala Principal) (6)
+15:10:52 [ServerList] GameServer offline (Sala Principal) (6)
+15:11:02 [ServerList] GameServer online (Sala Principal) (6)
+15:11:17 [ServerList] GameServer offline (Sala Principal) (6)
+15:11:26 [ServerList] GameServer online (Sala Principal) (6)
+15:11:58 [ServerList] GameServer offline (Sala Principal) (6)
+15:12:05 [ServerList] GameServer online (Sala Principal) (6)
+15:12:21 [ServerList] GameServer offline (Sala Principal) (6)
+15:12:42 [ServerList] GameServer online (Sala Principal) (6)
+23:19:48 [SocketManager] Server started at port [44490]
+23:19:48 [ServerList] ServerList loaded successfully
+23:20:08 [ServerList] JoinServer online
+23:20:26 [ServerList] GameServer online (Sala Principal) (6)
+23:20:41 [ServerList] GameServer offline (Sala Principal) (6)
+23:20:47 [ServerList] GameServer online (Sala Principal) (6)
+23:21:52 [ServerList] GameServer offline (Sala Principal) (6)
+23:22:12 [ServerList] GameServer online (Sala Principal) (6)
+23:34:52 [SocketManager] Server started at port [44490]
+23:34:52 [ServerList] ServerList loaded successfully
+23:35:12 [ServerList] JoinServer online
+23:35:31 [ServerList] GameServer online (Sala Principal) (6)

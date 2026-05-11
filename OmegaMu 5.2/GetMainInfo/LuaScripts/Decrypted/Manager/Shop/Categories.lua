@@ -1,0 +1,182 @@
+Shop_Categories = {
+    --#region CATEGORIAS SHOP 1 (JcPoints)
+    
+        ["Eng"] = {
+            [1] = {
+                [1] = "Swords",
+                [2] = "Shields",
+                [3] = "Helm",
+                [4] = "Armor",
+                [5] = "Pants",
+                [6] = "Gloves",
+                [7] = "Boots",				
+                [8] = "Rings e Pendants",				
+                [9] =  "Wings e Capas",				
+                [10] =  "Montarias e Pets",				
+                [11] = "Vazio",				
+                [12] = "Vazio",				
+                [13] = "Vazio",											
+                [14] = "Vazio",											
+                [15] = "Vazio",											
+            },
+            
+            [2] = {
+                [1] = "Swords",
+                [2] = "Shields",
+                [3] = "Helm",
+                [4] = "Armor",
+                [5] = "Pants",
+                [6] = "Gloves",
+                [7] = "Boots",				
+                [8] = "Rings e Pendants",				
+                [9] =  "Wings e Capas",				
+                [10] =  "Montarias e Pets",				
+                [11] = "Vazio",				
+                [12] = "Vazio",				
+                [13] = "Vazio",											
+                [14] = "Vazio",											
+                [15] = "Vazio",					
+				
+            },   
+			
+            [3] = {
+                [1] = "Swords",
+                [2] = "Shields",
+                [3] = "Helm",
+                [4] = "Armor",
+                [5] = "Pants",
+                [6] = "Gloves",
+                [7] = "Boots",				
+                [8] = "Rings e Pendants",				
+                [9] =  "Wings e Capas",				
+                [10] =  "Montarias e Pets",				
+                [11] = "Vazio",				
+                [12] = "Vazio",				
+                [13] = "Vazio",											
+                [14] = "Vazio",											
+                [15] = "Vazio",					
+				
+            },
+        },
+        ["Por"] = {
+            [1] = {
+                [1] = "Swords",
+                [2] = "Shields",
+                [3] = "Helm",
+                [4] = "Armor",
+                [5] = "Pants",
+                [6] = "Gloves",
+                [7] = "Boots",				
+                [8] = "Rings e Pendants",				
+                [9] =  "Wings e Capas",				
+                [10] =  "Montarias e Pets",				
+                [11] = "Vazio",				
+                [12] = "Vazio",				
+                [13] = "Vazio",											
+                [14] = "Vazio",											
+                [15] = "Vazio",					
+            },
+            
+            [2] = {
+                [1] = "Swords",
+                [2] = "Shields",
+                [3] = "Helm",
+                [4] = "Armor",
+                [5] = "Pants",
+                [6] = "Gloves",
+                [7] = "Boots",				
+                [8] = "Rings e Pendants",				
+                [9] =  "Wings e Capas",				
+                [10] =  "Montarias e Pets",				
+                [11] = "Vazio",				
+                [12] = "Vazio",				
+                [13] = "Vazio",											
+                [14] = "Vazio",											
+                [15] = "Vazio",					
+            },   
+			
+            [3] = {
+                [1] = "Swords",
+                [2] = "Shields",
+                [3] = "Helm",
+                [4] = "Armor",
+                [5] = "Pants",
+                [6] = "Gloves",
+                [7] = "Boots",				
+                [8] = "Rings e Pendants",				
+                [9] =  "Wings e Capas",				
+                [10] =  "Montarias e Pets",				
+                [11] = "Vazio",				
+                [12] = "Vazio",				
+                [13] = "Vazio",											
+                [14] = "Vazio",											
+                [15] = "Vazio",				
+
+				
+            },
+        },
+        ["Spn"] = {
+            [1] = {
+                [1] = "Swords",
+                [2] = "Shields",
+                [3] = "Helm",
+                [4] = "Armor",
+                [5] = "Pants",
+                [6] = "Gloves",
+                [7] = "Boots",				
+                [8] = "Rings e Pendants",				
+                [9] =  "Wings e Capas",				
+                [10] =  "Montarias e Pets",				
+                [11] = "Vazio",				
+                [12] = "Vazio",				
+                [13] = "Vazio",											
+                [14] = "Vazio",											
+                [15] = "Vazio",					
+				
+				
+            },
+            
+            [2] = {
+                [1] = "Swords",
+                [2] = "Shields",
+                [3] = "Helm",
+                [4] = "Armor",
+                [5] = "Pants",
+                [6] = "Gloves",
+                [7] = "Boots",				
+                [8] = "Rings e Pendants",				
+                [9] =  "Wings e Capas",				
+                [10] =  "Montarias e Pets",				
+                [11] = "Vazio",				
+                [12] = "Vazio",				
+                [13] = "Vazio",											
+                [14] = "Vazio",											
+                [15] = "Vazio",					
+
+            },   
+			
+            [3] = {
+                [1] = "Swords",
+                [2] = "Shields",
+                [3] = "Helm",
+                [4] = "Armor",
+                [5] = "Pants",
+                [6] = "Gloves",
+                [7] = "Boots",				
+                [8] = "Rings e Pendants",				
+                [9] =  "Wings e Capas",				
+                [10] =  "Montarias e Pets",				
+                [11] = "Vazio",				
+                [12] = "Vazio",				
+                [13] = "Vazio",											
+                [14] = "Vazio",											
+                [15] = "Vazio",					
+				
+            },
+        },
+
+
+   
+}
+
+return Shop_Categories

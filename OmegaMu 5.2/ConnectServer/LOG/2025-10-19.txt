@@ -1,0 +1,145 @@
+01:22:07 [SocketManager] Server started at port [44490]
+01:22:07 [ServerList] ServerList loaded successfully
+01:22:23 [ServerList] JoinServer online
+01:24:24 [SocketManager] Server started at port [44490]
+01:24:24 [ServerList] ServerList loaded successfully
+01:24:40 [ServerList] JoinServer online
+01:24:43 [ServerList] GameServer online (Sala Principal) (6)
+01:24:55 [ServerList] GameServer offline (Sala Principal) (6)
+01:25:19 [ServerList] GameServer online (Sala Principal) (6)
+01:25:56 [ServerList] GameServer offline (Sala Principal) (6)
+01:26:05 [ServerList] GameServer online (Sala Principal) (6)
+01:26:23 [ServerList] GameServer offline (Sala Principal) (6)
+01:26:40 [ServerList] JoinServer offline
+01:27:05 [ServerList] JoinServer online
+01:27:38 [ServerList] GameServer online (Sala Principal) (6)
+01:27:50 [ServerList] GameServer offline (Sala Principal) (6)
+01:28:11 [ServerList] GameServer online (Sala Principal) (6)
+01:54:19 [SocketManager] Server started at port [44490]
+01:54:19 [ServerList] ServerList loaded successfully
+01:55:47 [ServerList] JoinServer online
+01:56:19 [ServerList] GameServer online (Sala Principal) (6)
+02:06:00 [ServerList] GameServer offline (Sala Principal) (6)
+02:08:06 [ServerList] GameServer online (Sala Principal) (6)
+02:13:06 [ServerList] GameServer offline (Sala Principal) (6)
+02:14:28 [ServerList] GameServer online (Sala Principal) (6)
+02:14:40 [ServerList] GameServer offline (Sala Principal) (6)
+02:15:00 [ServerList] GameServer online (Sala Principal) (6)
+02:20:48 [ServerList] GameServer offline (Sala Principal) (6)
+02:20:54 [ServerList] GameServer online (Sala Principal) (6)
+02:21:18 [ServerList] GameServer offline (Sala Principal) (6)
+02:21:38 [ServerList] GameServer online (Sala Principal) (6)
+02:23:11 [ServerList] GameServer offline (Sala Principal) (6)
+02:23:32 [ServerList] GameServer online (Sala Principal) (6)
+02:25:55 [ServerList] GameServer offline (Sala Principal) (6)
+02:26:17 [ServerList] GameServer online (Sala Principal) (6)
+16:54:13 [SocketManager] Server started at port [44490]
+16:54:13 [ServerList] ServerList loaded successfully
+16:54:36 [ServerList] GameServer online (Sala Principal) (6)
+16:54:54 [ServerList] GameServer offline (Sala Principal) (6)
+16:56:31 [SocketManager] Server started at port [44490]
+16:56:31 [ServerList] ServerList loaded successfully
+16:57:59 [SocketManager] Server started at port [44490]
+16:57:59 [ServerList] ServerList loaded successfully
+16:58:53 [SocketManager] Server started at port [44490]
+16:58:53 [ServerList] ServerList loaded successfully
+17:02:36 [SocketManager] Server started at port [44490]
+17:02:36 [ServerList] ServerList loaded successfully
+17:03:03 [ServerList] GameServer online (Sala Principal) (6)
+17:03:15 [ServerList] GameServer offline (Sala Principal) (6)
+17:03:22 [ServerList] JoinServer online
+17:03:40 [ServerList] GameServer online (Sala Principal) (6)
+17:04:01 [ServerList] GameServer offline (Sala Principal) (6)
+17:04:09 [ServerList] GameServer online (Sala Principal) (6)
+17:04:21 [ServerList] GameServer offline (Sala Principal) (6)
+17:04:30 [ServerList] GameServer online (Sala Principal) (6)
+17:04:47 [ServerList] GameServer offline (Sala Principal) (6)
+17:05:09 [ServerList] GameServer online (Sala Principal) (6)
+17:05:24 [ServerList] GameServer offline (Sala Principal) (6)
+17:05:31 [ServerList] GameServer online (Sala Principal) (6)
+17:05:44 [ServerList] GameServer offline (Sala Principal) (6)
+17:05:53 [ServerList] GameServer online (Sala Principal) (6)
+17:06:11 [ServerList] GameServer offline (Sala Principal) (6)
+17:06:18 [ServerList] GameServer online (Sala Principal) (6)
+17:06:31 [ServerList] GameServer offline (Sala Principal) (6)
+17:06:37 [ServerList] GameServer online (Sala Principal) (6)
+17:06:57 [ServerList] GameServer offline (Sala Principal) (6)
+17:07:04 [ServerList] GameServer online (Sala Principal) (6)
+17:07:17 [ServerList] GameServer offline (Sala Principal) (6)
+17:07:24 [ServerList] GameServer online (Sala Principal) (6)
+17:07:41 [ServerList] GameServer offline (Sala Principal) (6)
+17:07:49 [ServerList] GameServer online (Sala Principal) (6)
+17:08:01 [ServerList] GameServer offline (Sala Principal) (6)
+17:08:09 [ServerList] GameServer online (Sala Principal) (6)
+17:08:22 [ServerList] GameServer offline (Sala Principal) (6)
+17:08:30 [ServerList] GameServer online (Sala Principal) (6)
+17:09:07 [ServerList] GameServer offline (Sala Principal) (6)
+17:09:15 [ServerList] GameServer online (Sala Principal) (6)
+17:22:42 [SocketManager] Server started at port [44490]
+17:22:42 [ServerList] ServerList loaded successfully
+17:24:05 [SocketManager] Server started at port [44490]
+17:24:05 [ServerList] ServerList loaded successfully
+17:24:47 [ServerList] JoinServer online
+17:25:06 [ServerList] GameServer online (Sala Principal) (6)
+17:25:22 [ServerList] GameServer offline (Sala Principal) (6)
+17:25:44 [ServerList] GameServer online (Sala Principal) (6)
+17:32:03 [ServerList] GameServer offline (Sala Principal) (6)
+17:32:24 [ServerList] GameServer online (Sala Principal) (6)
+17:37:30 [SocketManager] Server started at port [44490]
+17:37:30 [ServerList] ServerList loaded successfully
+17:37:50 [ServerList] JoinServer online
+17:38:07 [ServerList] GameServer online (Sala Principal) (6)
+17:38:26 [ServerList] GameServer offline (Sala Principal) (6)
+17:38:29 [ServerList] JoinServer offline
+17:39:27 [SocketManager] Server started at port [44490]
+17:39:27 [ServerList] ServerList loaded successfully
+17:39:27 [ServerList] JoinServer online
+17:40:02 [ServerList] GameServer online (Sala Principal) (6)
+18:10:16 [ServerList] GameServer offline (Sala Principal) (6)
+18:10:35 [ServerList] GameServer online (Sala Principal) (6)
+23:04:12 [ServerList] GameServer offline (Sala Principal) (6)
+23:04:34 [ServerList] GameServer online (Sala Principal) (6)
+23:05:39 [ServerList] GameServer offline (Sala Principal) (6)
+23:06:00 [ServerList] GameServer online (Sala Principal) (6)
+23:06:19 [ServerList] GameServer offline (Sala Principal) (6)
+23:06:40 [ServerList] GameServer online (Sala Principal) (6)
+23:07:38 [ServerList] GameServer offline (Sala Principal) (6)
+23:08:15 [ServerList] GameServer online (Sala Principal) (6)
+23:10:33 [ServerList] GameServer offline (Sala Principal) (6)
+23:10:39 [ServerList] GameServer online (Sala Principal) (6)
+23:11:07 [ServerList] GameServer offline (Sala Principal) (6)
+23:11:28 [ServerList] GameServer online (Sala Principal) (6)
+23:17:07 [ServerList] GameServer offline (Sala Principal) (6)
+23:17:29 [ServerList] GameServer online (Sala Principal) (6)
+23:17:41 [ServerList] GameServer offline (Sala Principal) (6)
+23:18:02 [ServerList] GameServer online (Sala Principal) (6)
+23:18:38 [ServerList] GameServer offline (Sala Principal) (6)
+23:18:44 [ServerList] GameServer online (Sala Principal) (6)
+23:19:04 [ServerList] GameServer offline (Sala Principal) (6)
+23:19:25 [ServerList] GameServer online (Sala Principal) (6)
+23:19:49 [ServerList] GameServer offline (Sala Principal) (6)
+23:19:56 [ServerList] GameServer online (Sala Principal) (6)
+23:20:18 [ServerList] GameServer offline (Sala Principal) (6)
+23:20:39 [ServerList] GameServer online (Sala Principal) (6)
+23:22:51 [ServerList] GameServer offline (Sala Principal) (6)
+23:23:13 [ServerList] GameServer online (Sala Principal) (6)
+23:23:28 [ServerList] GameServer offline (Sala Principal) (6)
+23:23:35 [ServerList] GameServer online (Sala Principal) (6)
+23:23:47 [ServerList] GameServer offline (Sala Principal) (6)
+23:23:54 [ServerList] GameServer online (Sala Principal) (6)
+23:24:06 [ServerList] GameServer offline (Sala Principal) (6)
+23:24:26 [ServerList] GameServer online (Sala Principal) (6)
+23:25:45 [ServerList] GameServer offline (Sala Principal) (6)
+23:26:06 [ServerList] GameServer online (Sala Principal) (6)
+23:28:13 [ServerList] GameServer offline (Sala Principal) (6)
+23:28:34 [ServerList] GameServer online (Sala Principal) (6)
+23:30:34 [ServerList] GameServer offline (Sala Principal) (6)
+23:30:41 [ServerList] GameServer online (Sala Principal) (6)
+23:30:55 [ServerList] GameServer offline (Sala Principal) (6)
+23:31:01 [ServerList] GameServer online (Sala Principal) (6)
+23:31:43 [ServerList] GameServer offline (Sala Principal) (6)
+23:32:03 [ServerList] GameServer online (Sala Principal) (6)
+23:34:10 [ServerList] GameServer offline (Sala Principal) (6)
+23:34:16 [ServerList] GameServer online (Sala Principal) (6)
+23:34:38 [ServerList] GameServer offline (Sala Principal) (6)
+23:34:59 [ServerList] GameServer online (Sala Principal) (6)

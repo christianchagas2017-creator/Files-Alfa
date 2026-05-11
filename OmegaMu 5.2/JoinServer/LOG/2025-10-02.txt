@@ -1,0 +1,26 @@
+12:43:46 [SocketManager] Server started at port [55970]
+12:44:02 [ServerManager][0] AddServer (127.0.0.1)
+12:44:02 [ServerManager][0] ServerInfo (Sala Principal) (55994) (6)
+16:47:21 [SocketManager] Server started at port [55970]
+16:47:47 [SocketManager] Server started at port [55970]
+16:48:20 [SocketManager] Server started at port [55970]
+16:48:36 [ServerManager][0] AddServer (127.0.0.1)
+16:48:36 [ServerManager][0] ServerInfo (Sala Principal) (55994) (6)
+16:48:45 [ServerManager][0] DelServer (127.0.0.1)
+16:49:15 [ServerManager][0] AddServer (127.0.0.1)
+16:49:15 [ServerManager][0] ServerInfo (Sala Principal) (55994) (6)
+17:50:11 [ServerManager][0] DelServer (127.0.0.1)
+17:50:41 [ServerManager][0] AddServer (127.0.0.1)
+17:50:41 [ServerManager][0] ServerInfo (Sala Principal) (55994) (6)
+17:50:46 [ServerManager][0] DelServer (127.0.0.1)
+17:51:16 [ServerManager][0] AddServer (127.0.0.1)
+17:51:16 [ServerManager][0] ServerInfo (Sala Principal) (55994) (6)
+17:51:25 [ServerManager][0] DelServer (127.0.0.1)
+17:51:40 [ServerManager][0] AddServer (127.0.0.1)
+17:51:40 [ServerManager][0] ServerInfo (Sala Principal) (55994) (6)
+17:51:43 [ServerManager][0] DelServer (127.0.0.1)
+17:52:13 [ServerManager][0] AddServer (127.0.0.1)
+17:52:13 [ServerManager][0] ServerInfo (Sala Principal) (55994) (6)
+17:53:07 [ServerManager][0] DelServer (127.0.0.1)
+17:53:37 [ServerManager][0] AddServer (127.0.0.1)
+17:53:37 [ServerManager][0] ServerInfo (Sala Principal) (55994) (6)

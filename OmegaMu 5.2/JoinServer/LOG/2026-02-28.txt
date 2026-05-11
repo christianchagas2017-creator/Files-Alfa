@@ -1,0 +1,40 @@
+19:14:02 [SocketManager] Server started at port [55970]
+19:16:41 [ServerManager][0] AddServer (127.0.0.1)
+19:16:41 [ServerManager][0] ServerInfo (Sala Principal) (55994) (6)
+19:43:09 [SocketManager] Server started at port [55970]
+19:43:11 [ServerManager][0] AddServer (127.0.0.1)
+19:43:11 [ServerManager][0] ServerInfo (Sala Principal) (55994) (6)
+20:17:33 [SocketManager] Server started at port [55970]
+20:19:05 [SocketManager] Server started at port [55970]
+20:19:06 [ServerManager][0] AddServer (127.0.0.1)
+20:19:06 [ServerManager][0] ServerInfo (Sala Principal) (55994) (6)
+20:22:46 [SocketManager] Server started at port [55970]
+20:22:47 [ServerManager][0] AddServer (127.0.0.1)
+20:22:47 [ServerManager][0] ServerInfo (Sala Principal) (55994) (6)
+20:35:57 [SocketManager] Server started at port [55970]
+20:35:59 [ServerManager][0] AddServer (127.0.0.1)
+20:35:59 [ServerManager][0] ServerInfo (Sala Principal) (55994) (6)
+20:36:31 [SocketManager] Server started at port [55970]
+20:36:32 [ServerManager][0] AddServer (127.0.0.1)
+20:36:32 [ServerManager][0] ServerInfo (Sala Principal) (55994) (6)
+20:53:55 [SocketManager] Server started at port [55970]
+20:53:56 [ServerManager][0] AddServer (127.0.0.1)
+20:53:56 [ServerManager][0] ServerInfo (Sala Principal) (55994) (6)
+20:58:35 [SocketManager] Server started at port [55970]
+20:58:36 [ServerManager][0] AddServer (127.0.0.1)
+20:58:36 [ServerManager][0] ServerInfo (Sala Principal) (55994) (6)
+21:07:36 [SocketManager] Server started at port [55970]
+21:07:37 [ServerManager][0] AddServer (127.0.0.1)
+21:07:37 [ServerManager][0] ServerInfo (Sala Principal) (55994) (6)
+21:10:38 [SocketManager] Server started at port [55970]
+21:10:39 [ServerManager][0] AddServer (127.0.0.1)
+21:10:39 [ServerManager][0] ServerInfo (Sala Principal) (55994) (6)
+21:13:21 [SocketManager] Server started at port [55970]
+21:13:22 [ServerManager][0] AddServer (127.0.0.1)
+21:13:22 [ServerManager][0] ServerInfo (Sala Principal) (55994) (6)
+21:20:44 [SocketManager] Server started at port [55970]
+21:20:46 [ServerManager][0] AddServer (127.0.0.1)
+21:20:46 [ServerManager][0] ServerInfo (Sala Principal) (55994) (6)
+21:23:42 [SocketManager] Server started at port [55970]
+21:23:43 [ServerManager][0] AddServer (127.0.0.1)
+21:23:43 [ServerManager][0] ServerInfo (Sala Principal) (55994) (6)

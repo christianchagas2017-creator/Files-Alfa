@@ -1,0 +1,32 @@
+00:32:49 [SocketManager] Server started at port [44490]
+00:32:49 [ServerList] ServerList loaded successfully
+00:33:04 [ServerList] JoinServer online
+00:33:19 [ServerList] GameServer online (Sala Principal) (0)
+00:33:34 [ServerList] GameServer online (Sala Vip) (1)
+00:59:37 [ServerList] GameServer offline (Sala Principal) (0)
+00:59:41 [ServerList] GameServer online (Sala Principal) (0)
+01:00:22 [ServerList] GameServer offline (Sala Vip) (1)
+01:00:26 [ServerList] GameServer online (Sala Vip) (1)
+01:16:01 [SocketManager] Server started at port [44490]
+01:16:01 [ServerList] ServerList loaded successfully
+01:16:12 [ServerList] JoinServer online
+01:16:22 [ServerList] GameServer online (Sala Principal) (0)
+01:16:32 [ServerList] GameServer online (Sala Vip) (1)
+13:26:50 [SocketManager] Server started at port [44490]
+13:26:50 [ServerList] ServerList loaded successfully
+13:27:02 [ServerList] JoinServer online
+13:29:00 [ServerList] GameServer online (Sala Vip) (2)
+13:30:52 [SocketManager] Server started at port [44490]
+13:30:52 [ServerList] ServerList loaded successfully
+13:31:04 [ServerList] JoinServer online
+13:31:14 [ServerList] GameServer online (Sala Principal) (0)
+13:31:23 [ServerList] GameServer online (Sala Vip) (1)
+17:51:58 [SocketManager] Protocol header error (Index: 1, Header: 47)
+17:52:02 [SocketManager] Protocol header error (Index: 0, Header: 47)
+17:52:03 [SocketManager] Protocol header error (Index: 2, Header: 16)
+17:52:04 [SocketManager] Protocol header error (Index: 3, Header: 16)
+17:52:05 [SocketManager] Protocol header error (Index: 4, Header: 53)
+23:15:45 [ServerList] GameServer offline (Sala Principal) (0)
+23:15:47 [ServerList] GameServer online (Sala Principal) (0)
+23:16:10 [ServerList] GameServer offline (Sala Principal) (0)
+23:16:35 [ServerList] GameServer online (Sala Principal) (0)

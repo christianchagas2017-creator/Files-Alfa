@@ -1,0 +1,27 @@
+//Index   MonsterClass   Map	X	Y	Comment
+0         251            -1		-1	-1	//Hanzo the Blacksmith
+1         255            -1		-1	-1	//Liaman the Barmaid
+2         254            -1		-1	-1	//Pasi the Wizard
+3         250            -1		-1	-1	//Harold the Wandering Merchant
+4         248            -1		-1	-1	//Martin the Wandering Merchant
+5         253            -1		-1	-1	//Amy the Potion Girl
+6         244            -1		-1	-1	//Lumen the Barmaid
+7         245            -1		-1	-1	//Isabel the Wizard
+8         246            -1		-1	-1	//Zienna the Weapon Merchant
+9         243            -1		-1	-1	//Eo the Craftsman
+10        242            -1		-1	-1	//Elf Lala
+11        230            -1		-1	-1	//Alex the Wandering Merchant
+12        231            -1		-1	-1	//Thompson Kenel
+13        376            -1		-1	-1	//Drink Seller Hillary
+14        377            -1		-1	-1	//Drink Seller Lindsay
+15        379            -1		-1	-1	//Fireworks Girl
+16        415            -1		-1	-1	//Sivia
+17        416            -1		-1	-1	//Leah
+18        417            -1		-1	-1	//Marseille
+19        492            -1		-1	-1	//Moss Merchant
+20        545            -1		-1	-1	//Christine
+21        239            -1		-1	-1	//Stadium Guard
+22        259            -1		-1	-1	//Priestess Reira
+23        577            -1		-1	-1	//Leina
+24        578            -1		-1	-1	//Bolo
+end

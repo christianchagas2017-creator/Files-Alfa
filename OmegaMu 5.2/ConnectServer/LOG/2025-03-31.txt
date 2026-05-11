@@ -1,0 +1,11 @@
+10:40:12 [SocketManager] Protocol header error (Index: 1, Header: 3)
+23:43:58 [SocketManager] Server started at port [44490]
+23:43:58 [ServerList] ServerList loaded successfully
+23:43:59 [ServerList] JoinServer online
+23:44:03 [ServerList] GameServer online (Sala Spots) (1)
+23:44:05 [ServerList] GameServer online (Sala Principal) (0)
+23:44:20 [ServerList] GameServer offline (Sala Principal) (0)
+23:52:24 [ServerList] GameServer offline (Sala Spots) (1)
+23:53:01 [ServerList] GameServer online (Sala Spots) (1)
+23:56:23 [ServerList] GameServer offline (Sala Spots) (1)
+23:56:50 [ServerList] GameServer online (Sala Spots) (1)

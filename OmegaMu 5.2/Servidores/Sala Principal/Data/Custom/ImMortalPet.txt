@@ -1,0 +1,11 @@
+
+0
+//Index		Tipo 	Name
+13 			2		//Uniria
+13 			3		//Dinorant
+13 			0		//Angel
+13 			1		//Imp
+64 			1		//Demon
+65 			1		//Angel
+
+end

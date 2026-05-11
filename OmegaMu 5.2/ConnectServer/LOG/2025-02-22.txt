@@ -1,0 +1,41 @@
+03:17:50 [ServerList] GameServer offline (Sala Spots) (1)
+03:18:02 [ServerList] GameServer online (Sala Spots) (1)
+03:39:11 [ServerList] GameServer offline (Sala Spots) (1)
+03:42:47 [ServerList] GameServer online (Sala Spots) (1)
+03:43:10 [ServerList] GameServer offline (Sala Spots) (1)
+03:43:41 [ServerList] GameServer online (Sala Spots) (1)
+03:47:50 [ServerList] GameServer offline (Sala Spots) (1)
+03:52:43 [ServerList] GameServer online (Sala Spots) (1)
+06:27:29 [SocketManager] Protocol header error (Index: 1, Header: 3)
+14:22:30 [SocketManager] Server started at port [44490]
+14:22:30 [ServerList] ServerList loaded successfully
+14:22:36 [ServerList] JoinServer online
+14:48:04 [ServerList] GameServer online (Sala Spots) (1)
+15:06:51 [ServerList] GameServer offline (Sala Spots) (1)
+15:06:54 [ServerList] GameServer online (Sala Spots) (1)
+16:03:00 [ServerList] GameServer offline (Sala Spots) (1)
+16:03:29 [ServerList] GameServer online (Sala Spots) (1)
+21:15:30 [SocketManager] Server started at port [44490]
+21:15:30 [ServerList] ServerList loaded successfully
+21:15:32 [ServerList] JoinServer online
+21:16:01 [ServerList] GameServer online (Sala Spots) (1)
+22:33:19 [SocketManager] Server started at port [44490]
+22:33:19 [ServerList] ServerList loaded successfully
+22:33:21 [ServerList] JoinServer online
+22:33:22 [ServerList] GameServer online (Sala Spots) (1)
+22:47:13 [ServerList] GameServer offline (Sala Spots) (1)
+22:47:29 [ServerList] GameServer online (Sala Spots) (1)
+22:49:44 [ServerList] GameServer offline (Sala Spots) (1)
+22:49:46 [ServerList] GameServer online (Sala Spots) (1)
+23:00:21 [SocketManager] Server started at port [44490]
+23:00:21 [ServerList] ServerList loaded successfully
+23:00:23 [ServerList] JoinServer online
+23:00:24 [ServerList] GameServer online (Sala Spots) (1)
+23:09:50 [ServerList] GameServer offline (Sala Spots) (1)
+23:10:41 [ServerList] GameServer online (Sala Spots) (1)
+23:11:12 [ServerList] GameServer offline (Sala Spots) (1)
+23:11:34 [ServerList] GameServer online (Sala Spots) (1)
+23:46:26 [ServerList] GameServer offline (Sala Spots) (1)
+23:46:40 [ServerList] GameServer online (Sala Spots) (1)
+23:49:00 [ServerList] GameServer offline (Sala Spots) (1)
+23:50:37 [ServerList] GameServer online (Sala Spots) (1)

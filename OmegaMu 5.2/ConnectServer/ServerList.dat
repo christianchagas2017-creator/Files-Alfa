@@ -1,0 +1,4 @@
+//ServerCode   ServerName         		ServerAddress      	ServerPort       ServerType
+0              "Sala Principal"       	"143.14.79.225"		55994            "SHOW"
+1              "Sala Vip"       		"143.14.79.225"		55995            "SHOW"
+end

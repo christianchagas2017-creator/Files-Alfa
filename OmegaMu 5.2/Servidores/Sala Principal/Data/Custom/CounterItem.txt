@@ -1,0 +1,12 @@
+//Index - section * 512 + index
+//Em description n esqueça do "%d"
+0
+//Index        Description               Cor
+  43        "Contador de mortes: %d"       23
+
+
+end
+
+1
+"9a01d8749fb3cb68bb70ff386ff33bab"
+end

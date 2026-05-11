@@ -1,0 +1,6 @@
+15:59:18 Could not connect to database
+15:59:46 Could not connect to database
+16:00:36 Could not connect to database
+16:06:08 Could not connect to database
+16:06:58 Could not connect to database
+16:08:36 Could not connect to database

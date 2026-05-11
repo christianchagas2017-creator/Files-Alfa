@@ -1,0 +1,49 @@
+14:37:43 [SocketManager] Server started at port [55960]
+14:38:02 [ServerManager][0] AddServer (127.0.0.1)
+14:38:03 [ServerManager][0] ServerInfo (Sala Principal) (55994) (6)
+14:51:15 [SocketManager] Server started at port [55960]
+14:51:30 [ServerManager][0] AddServer (127.0.0.1)
+14:51:30 [ServerManager][0] ServerInfo (Sala Principal) (55994) (6)
+14:58:26 [SocketManager] Server started at port [55960]
+14:58:41 [ServerManager][0] AddServer (127.0.0.1)
+14:58:41 [ServerManager][0] ServerInfo (Sala Principal) (55994) (6)
+15:03:40 [SocketManager] Server started at port [55960]
+15:03:55 [ServerManager][0] AddServer (127.0.0.1)
+15:03:55 [ServerManager][0] ServerInfo (Sala Principal) (55994) (6)
+15:10:52 [SocketManager] Server started at port [55960]
+15:11:07 [ServerManager][0] AddServer (127.0.0.1)
+15:11:07 [ServerManager][0] ServerInfo (Sala Principal) (55994) (6)
+15:22:22 [SocketManager] Server started at port [55960]
+15:22:37 [ServerManager][0] AddServer (127.0.0.1)
+15:22:37 [ServerManager][0] ServerInfo (Sala Principal) (55994) (6)
+15:35:27 [ServerManager][1] AddServer (127.0.0.1)
+15:35:27 [ServerManager][1] ServerInfo (Vip Premium) (55996) (7)
+15:38:49 [ServerManager][1] DelServer (127.0.0.1)
+15:38:59 [ServerManager][1] AddServer (127.0.0.1)
+15:38:59 [ServerManager][1] ServerInfo (Vip Premium) (55996) (7)
+18:00:56 [ServerManager][1] DelServer (127.0.0.1)
+18:29:44 [SocketManager] Server started at port [55960]
+18:29:59 [ServerManager][0] AddServer (127.0.0.1)
+18:29:59 [ServerManager][0] ServerInfo (Sala Principal) (55994) (6)
+18:30:11 [ServerManager][1] AddServer (127.0.0.1)
+18:30:11 [ServerManager][1] ServerInfo (Vip Premium) (55996) (7)
+18:43:28 [SocketManager] Server started at port [55960]
+18:43:43 [ServerManager][0] AddServer (127.0.0.1)
+18:43:43 [ServerManager][0] ServerInfo (Sala Trade) (55994) (6)
+18:47:11 [SocketManager] Server started at port [55960]
+18:47:26 [ServerManager][0] AddServer (127.0.0.1)
+18:47:26 [ServerManager][0] ServerInfo (Sala Trade) (55994) (6)
+18:58:10 [ServerManager][1] AddServer (127.0.0.1)
+18:58:10 [ServerManager][1] ServerInfo (Vip) (55995) (19)
+18:58:14 [ServerManager][1] DelServer (127.0.0.1)
+18:58:41 [ServerManager][1] AddServer (127.0.0.1)
+18:58:41 [ServerManager][1] ServerInfo (Vip) (55995) (19)
+19:22:56 [ServerManager][1] DelServer (127.0.0.1)
+19:23:15 [ServerManager][1] AddServer (127.0.0.1)
+19:23:15 [ServerManager][1] ServerInfo (Vip) (55995) (19)
+19:28:17 [ServerManager][1] DelServer (127.0.0.1)
+20:25:25 [ServerManager][1] AddServer (127.0.0.1)
+20:25:25 [ServerManager][1] ServerInfo (Vip) (55995) (7)
+20:32:35 [ServerManager][1] DelServer (127.0.0.1)
+20:32:49 [ServerManager][1] AddServer (127.0.0.1)
+20:32:49 [ServerManager][1] ServerInfo (Vip) (55995) (7)

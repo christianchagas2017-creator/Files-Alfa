@@ -1,0 +1,7 @@
+20:57:07 Could not connect to database
+20:57:31 [SocketManager] Server started at port [55960]
+21:04:30 [ServerManager][0] AddServer (127.0.0.1)
+21:04:30 [ServerManager][0] ServerInfo (Sala Principal) (55994) (6)
+21:04:34 [ServerManager][0] DelServer (127.0.0.1)
+21:05:04 [ServerManager][0] AddServer (127.0.0.1)
+21:05:04 [ServerManager][0] ServerInfo (Sala Principal) (55994) (6)

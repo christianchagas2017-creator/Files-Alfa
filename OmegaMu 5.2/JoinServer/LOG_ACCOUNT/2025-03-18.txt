@@ -1,0 +1,1 @@
+13:20:39 [AccountInfo] Account connected (Account: admin, IpAddress: 179.96.23.42, GameServerCode: 1)

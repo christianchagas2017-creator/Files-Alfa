@@ -1,0 +1,15 @@
+08:20:50 [ServerList] GameServer offline (Sala Vip) (7)
+08:46:37 [ServerList] GameServer online (Sala Vip) (7)
+08:57:50 [ServerList] GameServer offline (Sala Vip) (7)
+08:58:55 [ServerList] GameServer online (Sala Vip) (7)
+09:24:29 [SocketManager] Server started at port [44490]
+09:24:29 [ServerList] ServerList loaded successfully
+09:24:41 [ServerList] JoinServer online
+09:26:10 [ServerList] GameServer online (Sala Principal) (0)
+09:34:23 [SocketManager] Server started at port [44490]
+09:34:23 [ServerList] ServerList loaded successfully
+09:34:34 [ServerList] JoinServer online
+09:34:44 [ServerList] GameServer online (Sala Principal) (0)
+09:36:03 [ServerList] GameServer online (Sala Vip) (1)
+21:46:23 [ServerList] GameServer offline (Sala Principal) (0)
+21:46:24 [ServerList] GameServer online (Sala Principal) (0)

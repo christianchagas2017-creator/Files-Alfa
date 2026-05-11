@@ -1,0 +1,6 @@
+13:02:05 [ServerList] GameServer offline (Sala Vip) (40)
+13:03:10 [ServerList] GameServer online (Sala Vip) (40)
+13:05:15 [ServerList] GameServer offline (Sala Vip) (40)
+13:05:21 [ServerList] GameServer online (Sala Vip) (40)
+17:56:39 [ServerList] GameServer offline (Sala Vip) (40)
+17:56:49 [ServerList] GameServer online (Sala Vip) (40)

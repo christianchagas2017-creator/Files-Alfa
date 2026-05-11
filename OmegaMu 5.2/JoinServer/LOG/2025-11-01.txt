@@ -1,0 +1,46 @@
+01:25:44 Could not connect to database
+01:26:36 Could not connect to database
+01:30:29 Could not connect to database
+01:33:05 Could not connect to database
+01:35:28 Could not connect to database
+01:37:15 Could not connect to database
+01:37:34 Could not connect to database
+01:37:54 Could not connect to database
+01:39:40 Could not connect to database
+01:40:19 Could not connect to database
+01:40:42 Could not connect to database
+01:41:01 Could not connect to database
+01:42:28 Could not connect to database
+01:47:35 Could not connect to database
+01:49:16 Could not connect to database
+01:51:30 Could not connect to database
+01:53:57 Could not connect to database
+01:57:06 [SocketManager] Server started at port [55970]
+01:58:57 [ServerManager][0] AddServer (127.0.0.1)
+01:58:57 [ServerManager][0] ServerInfo (Sala Principal) (55994) (6)
+01:59:01 [ServerManager][0] DelServer (127.0.0.1)
+01:59:31 [ServerManager][0] AddServer (127.0.0.1)
+01:59:31 [ServerManager][0] ServerInfo (Sala Principal) (55994) (6)
+02:11:14 [ServerManager][0] DelServer (127.0.0.1)
+02:12:43 [SocketManager] Server started at port [55970]
+02:12:58 [ServerManager][0] AddServer (127.0.0.1)
+02:12:58 [ServerManager][0] ServerInfo (Sala Principal) (55994) (6)
+12:35:38 Could not connect to database
+12:36:34 Could not connect to database
+12:38:42 [SocketManager] Server started at port [55970]
+12:38:46 [ServerManager][0] AddServer (127.0.0.1)
+12:38:46 [ServerManager][0] ServerInfo (Sala Principal) (55994) (6)
+14:07:33 [ServerManager][0] DelServer (127.0.0.1)
+14:16:14 [SocketManager] Server started at port [55970]
+14:16:30 [ServerManager][0] AddServer (127.0.0.1)
+14:16:30 [ServerManager][0] ServerInfo (Sala Principal) (55994) (6)
+23:00:45 [SocketManager] Server started at port [55970]
+23:01:01 [ServerManager][0] AddServer (127.0.0.1)
+23:01:01 [ServerManager][0] ServerInfo (Sala Principal) (55994) (6)
+23:08:07 Could not connect to database
+23:11:16 [SocketManager] Server started at port [55970]
+23:39:21 [ServerManager][0] AddServer (127.0.0.1)
+23:39:21 [ServerManager][0] ServerInfo (Sala Principal) (55994) (6)
+23:39:24 [ServerManager][0] DelServer (127.0.0.1)
+23:39:54 [ServerManager][0] AddServer (127.0.0.1)
+23:39:54 [ServerManager][0] ServerInfo (Sala Principal) (55994) (6)

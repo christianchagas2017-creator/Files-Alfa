@@ -1,0 +1,6 @@
+09:58:20 [AccountInfo] Account connected (Account: viper, IpAddress: 191.179.69.21, GameServerCode: 6)
+10:52:58 [AccountInfo] Account disconnected (Account: viper, IpAddress: 191.179.69.21, GameServerCode: 6)
+11:12:34 [AccountInfo] Account connected (Account: viper, IpAddress: 191.179.69.21, GameServerCode: 6)
+11:12:52 [AccountInfo] Account disconnected (Account: viper, IpAddress: 191.179.69.21, GameServerCode: 6)
+19:00:59 [AccountInfo] Account connected (Account: foxx, IpAddress: 45.71.219.135, GameServerCode: 6)
+21:46:44 [AccountInfo] Account disconnected (Account: foxx, IpAddress: 45.71.219.135, GameServerCode: 6)

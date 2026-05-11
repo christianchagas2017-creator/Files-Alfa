@@ -1,0 +1,5 @@
+00:22:10 [AccountInfo] Account disconnected (Account: cruzes, IpAddress: 177.39.98.36, GameServerCode: 1)
+00:22:30 [AccountInfo] Account connected (Account: admin, IpAddress: 177.39.98.36, GameServerCode: 1)
+00:24:07 [AccountInfo] Account disconnected (Account: admin, IpAddress: 177.39.98.36, GameServerCode: 1)
+00:24:10 [AccountInfo] Account connected (Account: admin, IpAddress: 177.39.98.36, GameServerCode: 1)
+00:24:17 [AccountInfo] Account disconnected (Account: admin, IpAddress: 177.39.98.36, GameServerCode: 1)

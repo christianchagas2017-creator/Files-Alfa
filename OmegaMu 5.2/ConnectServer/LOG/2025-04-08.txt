@@ -1,0 +1,174 @@
+11:02:53 [SocketManager] Server started at port [44490]
+11:02:53 [ServerList] ServerList loaded successfully
+11:02:54 [ServerList] JoinServer online
+11:02:59 [ServerList] GameServer online (Sala Vip) (31)
+11:02:59 [ServerList] GameServer online (Sala Principal) (0)
+11:05:07 [SocketManager] Server started at port [44490]
+11:05:07 [ServerList] ServerList loaded successfully
+11:05:13 [ServerList] JoinServer online
+11:05:16 [ServerList] GameServer online (Sala Principal) (0)
+11:06:40 [SocketManager] Server started at port [44490]
+11:06:40 [ServerList] ServerList loaded successfully
+11:06:44 [ServerList] JoinServer online
+11:06:48 [ServerList] GameServer online (Sala Principal) (0)
+11:09:58 [SocketManager] Server started at port [44490]
+11:09:58 [ServerList] ServerList loaded successfully
+11:10:03 [ServerList] JoinServer online
+11:10:07 [ServerList] GameServer online (Sala Principal) (0)
+11:10:11 [ServerList] GameServer online (Sala Vip) (31)
+11:10:42 [ServerList] GameServer offline (Sala Vip) (31)
+11:11:16 [ServerList] GameServer online (Sala Vip) (31)
+11:35:32 [SocketManager] Server started at port [44490]
+11:35:32 [ServerList] ServerList loaded successfully
+11:35:37 [ServerList] JoinServer online
+11:35:44 [ServerList] GameServer online (Sala Principal) (0)
+11:35:48 [ServerList] GameServer online (Sala Vip) (31)
+11:46:28 [ServerList] GameServer offline (Sala Principal) (0)
+11:46:28 [ServerList] GameServer offline (Sala Vip) (31)
+11:47:23 [ServerList] GameServer online (Sala Vip) (31)
+11:48:14 [ServerList] GameServer offline (Sala Vip) (31)
+11:50:12 [SocketManager] Server started at port [44490]
+11:50:12 [ServerList] ServerList loaded successfully
+11:50:17 [ServerList] JoinServer online
+11:50:21 [ServerList] GameServer online (Sala Principal) (0)
+11:51:18 [ServerList] GameServer online (Sala Spots) (1)
+11:51:46 [ServerList] GameServer online (Sala Vip) (31)
+11:52:27 [ServerList] GameServer offline (Sala Vip) (31)
+11:53:10 [ServerList] ServerList loaded successfully
+11:53:10 [ServerList] GameServer online (Sala Spots) (1)
+11:53:11 [ServerList] GameServer online (Sala Principal) (0)
+11:53:18 [ServerList] GameServer online (Sala Vip) (34)
+11:54:53 [SocketManager] Server started at port [44490]
+11:54:53 [ServerList] ServerList loaded successfully
+11:54:58 [ServerList] JoinServer online
+11:55:02 [ServerList] GameServer online (Sala Vip) (34)
+11:56:00 [ServerList] GameServer offline (Sala Vip) (34)
+11:56:25 [SocketManager] Server started at port [44490]
+11:56:25 [ServerList] ServerList loaded successfully
+11:56:30 [ServerList] JoinServer online
+11:56:35 [ServerList] GameServer online (Sala Vip) (31)
+11:57:14 [ServerList] GameServer offline (Sala Vip) (31)
+11:58:13 [ServerList] ServerList loaded successfully
+11:58:13 [ServerList] GameServer online (Sala Vip) (32)
+11:59:58 [SocketManager] Server started at port [44490]
+11:59:58 [ServerList] ServerList loaded successfully
+12:00:03 [ServerList] JoinServer online
+12:00:07 [ServerList] GameServer online (Sala Principal) (0)
+12:00:34 [ServerList] GameServer online (Sala Spots) (12)
+12:01:40 [ServerList] GameServer offline (Sala Spots) (12)
+12:01:44 [ServerList] GameServer offline (Sala Principal) (0)
+12:02:28 [ServerList] GameServer online (Sala Principal) (0)
+12:02:31 [ServerList] GameServer online (Sala Spots) (12)
+12:04:45 [ServerList] GameServer offline (Sala Spots) (12)
+12:04:48 [ServerList] ServerList loaded successfully
+12:05:35 [ServerList] GameServer online (Sala Spots) (12)
+12:07:33 [ServerList] GameServer online (Sala Principal) (0)
+12:09:34 [SocketManager] Server started at port [44490]
+12:09:34 [ServerList] ServerList loaded successfully
+12:09:39 [ServerList] JoinServer online
+12:09:43 [ServerList] GameServer online (Sala Principal) (0)
+12:09:47 [ServerList] GameServer online (Sala Spots) (1)
+12:09:51 [ServerList] GameServer online (Sala Vip) (31)
+12:11:02 [ServerList] GameServer offline (Sala Vip) (31)
+12:11:09 [ServerList] GameServer online (Sala Vip) (31)
+12:12:42 [SocketManager] Server started at port [44490]
+12:12:42 [ServerList] ServerList loaded successfully
+12:12:44 [ServerList] JoinServer online
+12:12:44 [ServerList] GameServer online (Sala Principal) (0)
+12:12:45 [ServerList] GameServer online (Sala Spots) (1)
+12:12:45 [ServerList] GameServer online (Sala Vip) (12)
+12:14:18 [SocketManager] Server started at port [44490]
+12:14:18 [ServerList] ServerList loaded successfully
+12:14:20 [ServerList] JoinServer online
+12:14:20 [ServerList] GameServer online (Sala Principal) (0)
+12:14:21 [ServerList] GameServer online (Sala Spots) (1)
+12:15:46 [SocketManager] Server started at port [44490]
+12:15:46 [ServerList] ServerList loaded successfully
+12:15:48 [ServerList] JoinServer online
+12:15:49 [ServerList] GameServer online (Sala Principal) (0)
+12:15:49 [ServerList] GameServer online (Sala Spots) (1)
+12:16:22 [SocketManager] Server started at port [44490]
+12:16:22 [ServerList] ServerList loaded successfully
+12:16:23 [ServerList] JoinServer online
+12:16:24 [ServerList] GameServer online (Sala Principal) (0)
+12:16:25 [ServerList] GameServer online (Sala Spots) (1)
+12:16:51 [ServerList] GameServer online (Sala Vip) (20)
+12:18:59 [SocketManager] Server started at port [44490]
+12:18:59 [ServerList] ServerList loaded successfully
+12:19:00 [ServerList] JoinServer online
+12:19:01 [ServerList] GameServer online (Sala Principal) (0)
+12:19:01 [ServerList] GameServer online (Sala Spots) (1)
+12:19:02 [ServerList] GameServer online (Sala Vip) (11)
+12:19:46 [ServerList] GameServer offline (Sala Vip) (11)
+12:20:20 [SocketManager] Server started at port [44490]
+12:20:20 [ServerList] ServerList loaded successfully
+12:20:22 [ServerList] JoinServer online
+12:20:22 [ServerList] GameServer online (Sala Principal) (0)
+12:20:23 [ServerList] GameServer online (Sala Spots) (1)
+12:20:23 [ServerList] GameServer online (Sala Vip) (31)
+22:51:28 [ServerList] GameServer offline (Sala Spots) (1)
+22:52:23 [ServerList] ServerList loaded successfully
+22:52:23 [ServerList] GameServer online (Sala Vip) (31)
+22:52:23 [ServerList] GameServer online (Sala Principal) (0)
+22:52:24 [ServerList] GameServer online (Sala Spots) (21)
+22:53:04 [ServerList] GameServer offline (Sala Spots) (21)
+22:53:37 [ServerList] ServerList loaded successfully
+22:53:38 [ServerList] GameServer online (Sala Vip) (31)
+22:53:38 [ServerList] GameServer online (Sala Principal) (0)
+22:53:40 [ServerList] GameServer online (Sala Spots) (41)
+23:01:14 [ServerList] GameServer offline (Sala Vip) (31)
+23:01:14 [ServerList] GameServer offline (Sala Spots) (41)
+23:01:15 [ServerList] GameServer offline (Sala Principal) (0)
+23:07:41 [ServerList] ServerList loaded successfully
+23:07:41 [ServerList] GameServer online (Sala Principal) (5)
+23:08:19 [ServerList] ServerList loaded successfully
+23:08:22 [ServerList] GameServer online (Sala Principal) (6)
+23:10:13 [ServerList] ServerList loaded successfully
+23:10:13 [ServerList] GameServer online (Sala Principal) (6)
+23:10:14 [ServerList] GameServer online (Sala Spots) (10)
+23:10:57 [ServerList] ServerList loaded successfully
+23:10:57 [ServerList] GameServer online (Sala Principal) (6)
+23:11:01 [ServerList] GameServer online (Sala Spots) (27)
+23:11:53 [ServerList] ServerList loaded successfully
+23:11:53 [ServerList] GameServer online (Sala Principal) (6)
+23:11:56 [ServerList] GameServer online (Sala Spots) (12)
+23:12:40 [ServerList] ServerList loaded successfully
+23:12:40 [ServerList] GameServer online (Sala Principal) (6)
+23:12:43 [ServerList] GameServer online (Sala Spots) (22)
+23:19:25 [ServerList] ServerList loaded successfully
+23:19:25 [ServerList] GameServer online (Sala Principal) (6)
+23:19:39 [ServerList] GameServer online (Sala Spots) (23)
+23:21:41 [ServerList] GameServer offline (Sala Spots) (23)
+23:21:44 [ServerList] ServerList loaded successfully
+23:21:44 [ServerList] GameServer online (Sala Principal) (6)
+23:21:46 [ServerList] GameServer online (Sala Spots) (26)
+23:23:04 [ServerList] ServerList loaded successfully
+23:23:05 [ServerList] GameServer online (Sala Principal) (6)
+23:23:25 [ServerList] GameServer online (Sala Vip) (46)
+23:25:10 [ServerList] ServerList loaded successfully
+23:25:10 [ServerList] GameServer online (Sala Principal) (6)
+23:25:12 [ServerList] GameServer online (Sala Spots) (27)
+23:25:12 [ServerList] GameServer online (Sala Vip) (48)
+23:32:47 [ServerList] ServerList loaded successfully
+23:32:47 [ServerList] GameServer online (Sala Principal) (6)
+23:32:48 [ServerList] GameServer online (Sala Spots) (27)
+23:32:51 [ServerList] GameServer online (Sala Vip) (49)
+23:33:51 [ServerList] ServerList loaded successfully
+23:33:51 [ServerList] GameServer online (Sala Principal) (6)
+23:33:52 [ServerList] GameServer online (Sala Vip) (49)
+23:33:54 [ServerList] GameServer online (Sala Spots) (24)
+23:35:04 [ServerList] ServerList loaded successfully
+23:35:04 [ServerList] GameServer online (Sala Principal) (6)
+23:35:07 [ServerList] GameServer online (Sala Spots) (7)
+23:35:08 [ServerList] GameServer online (Sala Vip) (8)
+23:36:04 [ServerList] ServerList loaded successfully
+23:36:04 [ServerList] GameServer online (Sala Principal) (6)
+23:36:05 [ServerList] GameServer online (Sala Vip) (8)
+23:36:08 [ServerList] GameServer online (Sala Spots) (17)
+23:36:47 [ServerList] ServerList loaded successfully
+23:36:47 [ServerList] GameServer online (Sala Principal) (6)
+23:36:49 [ServerList] GameServer online (Sala Spots) (21)
+23:37:32 [ServerList] ServerList loaded successfully
+23:37:32 [ServerList] GameServer online (Sala Spots) (21)
+23:37:32 [ServerList] GameServer online (Sala Principal) (6)
+23:37:34 [ServerList] GameServer online (Sala Vip) (49)

@@ -1,0 +1,5 @@
+//Section   Type   Level   Dur   Skill   Luck   Option   Excellent   Ancient   JoH   Ex   Socket1   Socket2   Socket3   Socket4   Socket5
+//14          0      0       0   0       0      0        0             0        0     0     255       255       255       255       255
+
+end
+

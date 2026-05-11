@@ -1,0 +1,3 @@
+16:06:51 [SocketManager] Server started at port [55970]
+16:07:06 [ServerManager][0] AddServer (127.0.0.1)
+16:07:06 [ServerManager][0] ServerInfo (Sala Principal) (55994) (6)

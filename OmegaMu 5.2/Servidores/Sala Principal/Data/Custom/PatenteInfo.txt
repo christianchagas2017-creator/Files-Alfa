@@ -1,0 +1,28 @@
+// Tipo 0 BMD
+// Tipo 1 Imagem
+// Tipo 2 Gif Sprite Sheet
+0
+//Index		Tipo 	Name
+1 			2		//Patente Gif - Hitador
+2 			2		//Patente Gif - Sanguinário
+3 			2		//Patente Gif - Assassino
+4 			2		//Patente Gif - Algoz
+5 			2		//Patente Gif - Carrasco
+6 			2		//Patente Gif - Ceifador de Bronze
+7 			2		//Patente Gif - Ceifador de Prata
+8 			2		//Patente Gif - Ceifador de Ouro
+9 			2		//Patente Gif - Ceifador de Platina
+10			2		//Patente Gif - Ceifador de Diamante
+11			0		//Patente Bmd - Cavaleiro do Abismo
+12			2		//Patente Gif - Senhor da Morte
+13			2		//Patente Gif - Príncipe da Morte
+14			0		//Patente Bmd - Rei da Morte
+15			0		//Patente Bmd - Imperador da Morte
+
+97			2		//Patente Gif Void
+98			2		//Patente Gif Void Runed Eye
+99			2		//Patente Gif Void Black
+
+
+
+end

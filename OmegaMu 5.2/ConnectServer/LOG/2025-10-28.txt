@@ -1,0 +1,10 @@
+15:58:57 [SocketManager] Server started at port [44490]
+15:58:57 [ServerList] ServerList loaded successfully
+16:04:05 [SocketManager] Server started at port [44490]
+16:04:05 [ServerList] ServerList loaded successfully
+16:05:19 [SocketManager] Server started at port [44490]
+16:05:19 [ServerList] ServerList loaded successfully
+16:07:49 [SocketManager] Server started at port [44490]
+16:07:49 [ServerList] ServerList loaded successfully
+16:08:45 [ServerList] GameServer online (Sala Principal) (6)
+16:08:56 [ServerList] GameServer offline (Sala Principal) (6)

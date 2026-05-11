@@ -1,0 +1,2 @@
+15:02:22 [ServerList] GameServer online (Sala Principal) (0)
+23:58:19 [ServerList] GameServer offline (Sala Principal) (0)

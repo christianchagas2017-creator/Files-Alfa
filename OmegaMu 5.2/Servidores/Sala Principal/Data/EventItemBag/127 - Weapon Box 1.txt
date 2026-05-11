@@ -1,0 +1,47 @@
+0
+//EventName             DropZen   ItemDropRate   ItemDropCount   SetItemDropRate   ItemDropType   Fireworks    
+"Box Of Luck"       	  1000       100             1               0                 0             0
+end
+
+1
+//Type   Index   MinLevel   MaxLevel   Skill   Luck      Options   Excellent   VipLevel   DropQuantity   HarmonyOption   Duration 	 ItemName 
+//0         1       0          0         0         0         0         0           0          1              0               0      	 // 
+end
+
+2
+//Type   Index   MinLevel   MaxLevel   Skill     Luck     Options   Excellent   SetOption   SocketOption   VipLevel    DropQuantity    HarmonyOption    TimeExpireItem  RateDrop     ItemName
+
+// HELM
+7         22      0          0         1         1          0        63          0           0              1          1                 0              0	      	  100           // Sphinx 
+7         21      0          0         1         1          0        63          0           0              1          1                 0              0	      	  100           // Brass
+7         24      0          0         1         1          0        63          0           0              1          1                 0              0	      	  100           // Plate
+
+// ARMOR
+8         22      0          0         1         1          0        63          0           0              1          1                 0              0	      	  100           // Sphinx 
+8         21      0          0         1         1          0        63          0           0              1          1                 0              0	      	  100           // Brass
+8         24      0          0         1         1          0        63          0           0              1          1                 0              0	      	  100           // Plate
+8         23      0          0         1         1          0        63          0           0              1          1                 0              0	      	  100           // Plate
+
+// PANTS
+9         22      0          0         1         1          0        63          0           0              1          1                 0              0	      	  100           // Sphinx 
+9         21      0          0         1         1          0        63          0           0              1          1                 0              0	      	  100           // Brass
+9         24      0          0         1         1          0        63          0           0              1          1                 0              0	      	  100           // Plate
+9         23      0          0         1         1          0        63          0           0              1          1                 0              0	      	  100           // Plate
+
+// GLOVES
+10         22      0          0         1         1          0        63          0           0              1          1                 0              0	      	  100           // Sphinx 
+10         21      0          0         1         1          0        63          0           0              1          1                 0              0	      	  100           // Brass
+10         24      0          0         1         1          0        63          0           0              1          1                 0              0	      	  100           // Plate
+10         23      0          0         1         1          0        63          0           0              1          1                 0              0	      	  100           // Plate
+
+// BOOTS
+11         22      0          0         1         1          0        63          0           0              1          1                 0              0	      	  100           // Sphinx 
+11         21      0          0         1         1          0        63          0           0              1          1                 0              0	      	  100           // Brass
+11         24      0          0         1         1          0        63          0           0              1          1                 0              0	      	  100           // Plate
+11         23      0          0         1         1          0        63          0           0              1          1                 0              0	      	  100           // Plate
+
+// ESPECIAL
+13         24      15          15         1         1          7        63          0           0              1          1                 0              0	      	  50           // Plate
+13         28      15          15         1         1          7        63          0           0              1          1                 0              0	      	  50           // Plate
+
+end                                                                                                                                                                     
