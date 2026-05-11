@@ -1,5 +1,0 @@
-01:51:36 ----------------------------------------------------------------------------------------------------
-01:51:36 [CheckSystemInformation] ClientVersion: 1.7.0, SystemVersion: 6.2.9200, MemoryUsage: 9642/16375mb
-01:51:36 [SplashScreen] SplashType: 0, TextSwitch: 1, DisplayText: Licensed to: AlfaMu
-01:51:36 [CHClientInfoSend] IsReconnect: 0, ClientFileCRC: 198B9613, HackVersion: 1.7.0, HardwareId: 08E3877F-A6CA84B3-C21F8D74-B905EDA2
-01:51:36 [CConnection::ClientWorkerThread] FD_CLOSE failed with error: 10053
