@@ -1,0 +1,28 @@
+[Configs]
+IpAddress 					= 26.10.173.188
+IpAddressPort 				= 44490
+ClientVersion 				= 1.04.05
+ClientSerial 				= TbYehR2hFUPBKgZj
+WindowName 					= AlfaMu 5.2
+ScreenShotPath 				= ScreenShots\Screen(%02d_%02d-%02d-%02d)-%04d.jpg
+EnableVisualInventory		= 1
+ReloadLua					= 1
+LuaCrypted					= 0
+RegisterPath				= "VoxMu"
+PrivateCode             	= "9a01d8749fb3cb68bb70ff386ff33bab"
+PersonalShop_Coins			= 2
+
+
+AttackSpeedDW   = 2000
+AttackSpeedDK   = 3000
+AttackSpeedELF  = 4000
+AttackSpeedMG   = 3000
+AttackSpeedDL   = 12000
+AttackSpeedSUM  = 12000
+
+MagicSpeedDW    = 2000
+MagicSpeedDK    = 9000
+MagicSpeedELF   = 4000
+MagicSpeedMG    = 3000
+MagicSpeedDL    = 12000
+MagicSpeedSUM   = 12000

@@ -1,0 +1,6 @@
+19:59:33 ----------------------------------------------------------------------------------------------------
+19:59:33 [CheckSystemInformation] ClientVersion: 1.7.0, SystemVersion: 6.2.9200, MemoryUsage: 11872/16375mb
+19:59:33 [SplashScreen] SplashType: 0, TextSwitch: 1, DisplayText: Licensed to: AlfaMu
+19:59:33 [CHClientInfoSend] IsReconnect: 0, ClientFileCRC: 198B9613, HackVersion: 1.7.0, HardwareId: 08E3877F-A6CA84B3-C21F8D74-B905EDA2
+19:59:33 [CConnection::ClientWorkerThread] FD_CLOSE failed with error: 10053
+20:00:33 [SplashScreen] SplashType: 2, TextSwitch: 1, DisplayText: Exhausted response time

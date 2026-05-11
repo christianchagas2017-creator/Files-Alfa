@@ -1,0 +1,32 @@
+0
+//--------------------------------------------------------------------------------------------------------------------------------------------------------------//
+//RenderEffect 2 = Solido | RenderEffect 66 = Transparente | RenderEffect 70 = Glow                                                                             //
+//EffectType -1 = Sin Efecto | EffectType 0 = Animacion en X | EffectType 1 = Animacion en Y                                                                    // 
+//EffectType 2 = Animacion reversa en X | EffectType 3 = Animacion Reversa en Y | EffectType 4 = Animacion en Frame 4x4 | EffectType 5 = Animacion en Frame 1x4 //
+//TimeEffectType = Velocidad de animacion en "EffectType" | TimeTextureID = Velocidad de animacion en "TextureID" (Efecto Render)                               //
+//TimeTextureID 1 = Velocidad de animacion en "TextureID" (Efecto Render) | TimeTextureID -1 = Deja de hacer el efecto Render en TextureID                      //
+//LevelGlow = El Brillo que aparece al Subir de nivel con Bless/Soul                                                                                            //
+//--------------------------------------------------------------------------------------------------------------------------------------------------------------//
+//	Type	Index	Red	Green	Blue	GroupMesh	RenderEffect	EffectType	TimeEffectType	TextureID	TimeTextureID	LevelGlow       //
+//--------------------------------------------------------------------------------------------------------------------------------------------------------------//
+//helmo
+
+	7 	150 	1.0	1.0 	1.0 	0 		2 		-1		1.0 		-1		0.0		1
+	7 	150 	0.88 	    0.45	0.06 	1 		66 		-1		1.0 		 1		3.0		1 //render
+
+//armor
+	8 	150 	1.0	1.0 	1.0  	0 		2 		-1		1.0 		-1		0.0		1
+	8 	150 	0.88 	   0.45	    0.06 	1 		66 		-1		1.0 		 1		3.0		1 //render
+
+//pants
+	9 	150 	1.0	    1.0 	1.0 	0 		2 		-1		1.0 		-1		0.0		1
+	9 	150 	0.88 	0.45	0.06 	1 		66 		-1		1.0 		 1		3.0		1 //render
+
+//Gloves
+	10 	150 	1.0	1.0 	1.0  	0 		2 		-1		1.0 		-1		0.0		1
+	10 	150 	0.88 	0.45	0.06 	1 		66 		-1		1.0 		 1		3.0		1 //render
+
+//boot
+	11 	150 	1.0	1.0 	1.0  	0 		2 		-1		1.0 		-1		0.0		1
+	11 	150 	0.88 	0.45	0.06 	1 		66 		-1		1.0 		 1		3.0		1 //render
+end
