@@ -1,0 +1,204 @@
+﻿  CCRC32.Cpp
+  Attack.cpp
+  BattleGround.cpp
+C:\ALPHA MU – 5.2 FULL 60 FPS\Source\server-files\GameServer\GameServer\LuaState.h(14,10): error C1083: Não é possível abrir arquivo incluir: 'luajit\lua.hpp': No such file or directory
+  ChaosBox.cpp
+  (compilando o arquivo fonte '/Attack.cpp')
+  
+  ChaosBoxGenesis.cpp
+C:\ALPHA MU – 5.2 FULL 60 FPS\Source\server-files\GameServer\GameServer\LuaState.h(14,10): error C1083: Não é possível abrir arquivo incluir: 'luajit\lua.hpp': No such file or directory
+  (compilando o arquivo fonte '/ChaosBoxGenesis.cpp')
+  
+  ChaosCastle.cpp
+  ClientInformation.cpp
+C:\ALPHA MU – 5.2 FULL 60 FPS\Source\server-files\GameServer\GameServer\LuaState.h(14,10): error C1083: Não é possível abrir arquivo incluir: 'luajit\lua.hpp': No such file or directory
+  (compilando o arquivo fonte '/ClientInformation.cpp')
+  
+  ComboSkill.cpp
+  CommandManager.cpp
+C:\ALPHA MU – 5.2 FULL 60 FPS\Source\server-files\GameServer\GameServer\MySQLManager.h(4,10): error C1083: Não é possível abrir arquivo incluir: 'mysql_connection.h': No such file or directory
+  (compilando o arquivo fonte '/CommandManager.cpp')
+  
+  Connection.cpp
+  CustomJewel.cpp
+  CustomJewelStack.cpp
+  DeathSystem.cpp
+C:\ALPHA MU – 5.2 FULL 60 FPS\Source\server-files\GameServer\GameServer\LuaState.h(14,10): error C1083: Não é possível abrir arquivo incluir: 'luajit\lua.hpp': No such file or directory
+  (compilando o arquivo fonte '/DeathSystem.cpp')
+  
+  DefaultClassInfo.cpp
+  DSProtocol.cpp
+C:\ALPHA MU – 5.2 FULL 60 FPS\Source\server-files\GameServer\GameServer\LuaState.h(14,10): error C1083: Não é possível abrir arquivo incluir: 'luajit\lua.hpp': No such file or directory
+  (compilando o arquivo fonte '/DSProtocol.cpp')
+  
+  Duel.cpp
+  Fruit.cpp
+  GameMain.cpp
+C:\ALPHA MU – 5.2 FULL 60 FPS\Source\server-files\GameServer\GameServer\LuaState.h(14,10): error C1083: Não é possível abrir arquivo incluir: 'luajit\lua.hpp': No such file or directory
+  (compilando o arquivo fonte '/GameMain.cpp')
+  
+  GameMaster.cpp
+  GameServer.cpp
+C:\ALPHA MU – 5.2 FULL 60 FPS\Source\server-files\GameServer\GameServer\LuaState.h(14,10): error C1083: Não é possível abrir arquivo incluir: 'luajit\lua.hpp': No such file or directory
+  (compilando o arquivo fonte '/GameServer.cpp')
+  
+  Gerando Código...
+  Compilando...
+  Gate.cpp
+  ItemBag.cpp
+  ItemBagEx.cpp
+  ItemManager.cpp
+C:\ALPHA MU – 5.2 FULL 60 FPS\Source\server-files\GameServer\GameServer\LuaState.h(14,10): error C1083: Não é possível abrir arquivo incluir: 'luajit\lua.hpp': No such file or directory
+  (compilando o arquivo fonte '/ItemManager.cpp')
+  
+  ItemMove.cpp
+  KanturuEntranceNPC.cpp
+  KanturuMaya.cpp
+  LuaChaosBox.cpp
+C:\ALPHA MU – 5.2 FULL 60 FPS\Source\server-files\GameServer\GameServer\LuaState.h(14,10): error C1083: Não é possível abrir arquivo incluir: 'luajit\lua.hpp': No such file or directory
+  (compilando o arquivo fonte '/LuaChaosBox.cpp')
+  
+  LuaChaosBoxGenesis.cpp
+C:\ALPHA MU – 5.2 FULL 60 FPS\Source\server-files\GameServer\GameServer\LuaState.h(14,10): error C1083: Não é possível abrir arquivo incluir: 'luajit\lua.hpp': No such file or directory
+  (compilando o arquivo fonte '/LuaChaosBoxGenesis.cpp')
+  
+  LuaCommands.cpp
+C:\ALPHA MU – 5.2 FULL 60 FPS\Source\server-files\GameServer\GameServer\LuaState.h(14,10): error C1083: Não é possível abrir arquivo incluir: 'luajit\lua.hpp': No such file or directory
+  (compilando o arquivo fonte '/LuaCommands.cpp')
+  
+  LuaDatabase.cpp
+C:\ALPHA MU – 5.2 FULL 60 FPS\Source\server-files\GameServer\GameServer\LuaState.h(14,10): error C1083: Não é possível abrir arquivo incluir: 'luajit\lua.hpp': No such file or directory
+  (compilando o arquivo fonte '/LuaDatabase.cpp')
+  
+  LuaDatabaseAsync.cpp
+C:\ALPHA MU – 5.2 FULL 60 FPS\Source\server-files\GameServer\GameServer\LuaState.h(14,10): error C1083: Não é possível abrir arquivo incluir: 'luajit\lua.hpp': No such file or directory
+  (compilando o arquivo fonte '/LuaDatabaseAsync.cpp')
+  
+  LuaFunctions.cpp
+C:\ALPHA MU – 5.2 FULL 60 FPS\Source\server-files\GameServer\GameServer\LuaState.h(14,10): error C1083: Não é possível abrir arquivo incluir: 'luajit\lua.hpp': No such file or directory
+  (compilando o arquivo fonte '/LuaFunctions.cpp')
+  
+  LuaGameServer.cpp
+C:\ALPHA MU – 5.2 FULL 60 FPS\Source\server-files\GameServer\GameServer\LuaState.h(14,10): error C1083: Não é possível abrir arquivo incluir: 'luajit\lua.hpp': No such file or directory
+  (compilando o arquivo fonte '/LuaGameServer.cpp')
+  
+  LuaInventory.cpp
+C:\ALPHA MU – 5.2 FULL 60 FPS\Source\server-files\GameServer\GameServer\LuaState.h(14,10): error C1083: Não é possível abrir arquivo incluir: 'luajit\lua.hpp': No such file or directory
+  (compilando o arquivo fonte '/LuaInventory.cpp')
+  
+  LuaManager.cpp
+C:\ALPHA MU – 5.2 FULL 60 FPS\Source\server-files\GameServer\GameServer\LuaState.h(14,10): error C1083: Não é possível abrir arquivo incluir: 'luajit\lua.hpp': No such file or directory
+  (compilando o arquivo fonte '/LuaManager.cpp')
+  
+  LuaOpenExtension.cpp
+C:\ALPHA MU – 5.2 FULL 60 FPS\Source\server-files\GameServer\GameServer\LuaState.h(14,10): error C1083: Não é possível abrir arquivo incluir: 'luajit\lua.hpp': No such file or directory
+  (compilando o arquivo fonte '/LuaOpenExtension.cpp')
+  
+  LuaSocket.cpp
+C:\ALPHA MU – 5.2 FULL 60 FPS\Source\server-files\GameServer\GameServer\LuaState.h(14,10): error C1083: Não é possível abrir arquivo incluir: 'luajit\lua.hpp': No such file or directory
+  (compilando o arquivo fonte '/LuaSocket.cpp')
+  
+  LuaState.cpp
+C:\ALPHA MU – 5.2 FULL 60 FPS\Source\server-files\GameServer\GameServer\LuaState.h(14,10): error C1083: Não é possível abrir arquivo incluir: 'luajit\lua.hpp': No such file or directory
+  (compilando o arquivo fonte '/LuaState.cpp')
+  
+  LuaTrade.cpp
+C:\ALPHA MU – 5.2 FULL 60 FPS\Source\server-files\GameServer\GameServer\LuaState.h(14,10): error C1083: Não é possível abrir arquivo incluir: 'luajit\lua.hpp': No such file or directory
+  (compilando o arquivo fonte '/LuaTrade.cpp')
+  
+  Gerando Código...
+  Compilando...
+  LuaUser.cpp
+C:\ALPHA MU – 5.2 FULL 60 FPS\Source\server-files\GameServer\GameServer\LuaState.h(14,10): error C1083: Não é possível abrir arquivo incluir: 'luajit\lua.hpp': No such file or directory
+  (compilando o arquivo fonte '/LuaUser.cpp')
+  
+  LuaUserGuild.cpp
+C:\ALPHA MU – 5.2 FULL 60 FPS\Source\server-files\GameServer\GameServer\LuaState.h(14,10): error C1083: Não é possível abrir arquivo incluir: 'luajit\lua.hpp': No such file or directory
+  (compilando o arquivo fonte '/LuaUserGuild.cpp')
+  
+  LuaWarehouse.cpp
+C:\ALPHA MU – 5.2 FULL 60 FPS\Source\server-files\GameServer\GameServer\LuaState.h(14,10): error C1083: Não é possível abrir arquivo incluir: 'luajit\lua.hpp': No such file or directory
+  (compilando o arquivo fonte '/LuaWarehouse.cpp')
+  
+  LuckyCoin.cpp
+  MiningSystem.cpp
+  Monster.cpp
+C:\ALPHA MU – 5.2 FULL 60 FPS\Source\server-files\GameServer\GameServer\LuaState.h(14,10): error C1083: Não é possível abrir arquivo incluir: 'luajit\lua.hpp': No such file or directory
+  (compilando o arquivo fonte '/Monster.cpp')
+  
+  MonsterAI.cpp
+  MonsterSkillElement.cpp
+  MonsterSkillElementInfo.cpp
+  MySQLManager.cpp
+C:\ALPHA MU – 5.2 FULL 60 FPS\Source\server-files\GameServer\GameServer\MySQLManager.h(4,10): error C1083: Não é possível abrir arquivo incluir: 'mysql_connection.h': No such file or directory
+  (compilando o arquivo fonte '/MySQLManager.cpp')
+  
+  Notice.cpp
+C:\ALPHA MU – 5.2 FULL 60 FPS\Source\server-files\GameServer\GameServer\MySQLManager.h(4,10): error C1083: Não é possível abrir arquivo incluir: 'mysql_connection.h': No such file or directory
+  (compilando o arquivo fonte '/Notice.cpp')
+  
+  NpcTalk.cpp
+C:\ALPHA MU – 5.2 FULL 60 FPS\Source\server-files\GameServer\GameServer\LuaState.h(14,10): error C1083: Não é possível abrir arquivo incluir: 'luajit\lua.hpp': No such file or directory
+  (compilando o arquivo fonte '/NpcTalk.cpp')
+  
+  ObjectManager.cpp
+C:\ALPHA MU – 5.2 FULL 60 FPS\Source\server-files\GameServer\GameServer\LuaState.h(14,10): error C1083: Não é possível abrir arquivo incluir: 'luajit\lua.hpp': No such file or directory
+  (compilando o arquivo fonte '/ObjectManager.cpp')
+  
+  PacketManager.cpp
+  PatenteInfo.cpp
+  Path.cpp
+  PersonalShop.cpp
+C:\ALPHA MU – 5.2 FULL 60 FPS\Source\server-files\GameServer\GameServer\LuaState.h(14,10): error C1083: Não é possível abrir arquivo incluir: 'luajit\lua.hpp': No such file or directory
+  (compilando o arquivo fonte '/PersonalShop.cpp')
+  
+  Pets.cpp
+  Protocol.cpp
+C:\ALPHA MU – 5.2 FULL 60 FPS\Source\server-files\GameServer\GameServer\LuaState.h(14,10): error C1083: Não é possível abrir arquivo incluir: 'luajit\lua.hpp': No such file or directory
+  (compilando o arquivo fonte '/Protocol.cpp')
+  
+  QueryAsync.cpp
+C:\ALPHA MU – 5.2 FULL 60 FPS\Source\server-files\GameServer\GameServer\LuaState.h(14,10): error C1083: Não é possível abrir arquivo incluir: 'luajit\lua.hpp': No such file or directory
+  (compilando o arquivo fonte '/QueryAsync.cpp')
+  
+  Gerando Código...
+  Compilando...
+  QueryAsyncManager.cpp
+  RaklionBattleOfSelupan.cpp
+  RaklionBattleUser.cpp
+  ServerDisplayer.cpp
+C:\ALPHA MU – 5.2 FULL 60 FPS\Source\server-files\GameServer\GameServer\LuaState.h(14,10): error C1083: Não é possível abrir arquivo incluir: 'luajit\lua.hpp': No such file or directory
+  (compilando o arquivo fonte '/ServerDisplayer.cpp')
+  
+  ServerInfo.cpp
+C:\ALPHA MU – 5.2 FULL 60 FPS\Source\server-files\GameServer\GameServer\LuaState.h(14,10): error C1083: Não é possível abrir arquivo incluir: 'luajit\lua.hpp': No such file or directory
+  (compilando o arquivo fonte '/ServerInfo.cpp')
+  
+  SetItemOption.cpp
+  SkillManager.cpp
+C:\ALPHA MU – 5.2 FULL 60 FPS\Source\server-files\GameServer\GameServer\LuaState.h(14,10): error C1083: Não é possível abrir arquivo incluir: 'luajit\lua.hpp': No such file or directory
+  (compilando o arquivo fonte '/SkillManager.cpp')
+  
+  Timer.cpp
+C:\ALPHA MU – 5.2 FULL 60 FPS\Source\server-files\GameServer\GameServer\LuaState.h(14,10): error C1083: Não é possível abrir arquivo incluir: 'luajit\lua.hpp': No such file or directory
+  (compilando o arquivo fonte '/Timer.cpp')
+  
+  Trade.cpp
+C:\ALPHA MU – 5.2 FULL 60 FPS\Source\server-files\GameServer\GameServer\LuaState.h(14,10): error C1083: Não é possível abrir arquivo incluir: 'luajit\lua.hpp': No such file or directory
+  (compilando o arquivo fonte '/Trade.cpp')
+  
+  TradeX.cpp
+C:\ALPHA MU – 5.2 FULL 60 FPS\Source\server-files\GameServer\GameServer\LuaState.h(14,10): error C1083: Não é possível abrir arquivo incluir: 'luajit\lua.hpp': No such file or directory
+  (compilando o arquivo fonte '/TradeX.cpp')
+  
+  Union.cpp
+  User.cpp
+C:\ALPHA MU – 5.2 FULL 60 FPS\Source\server-files\GameServer\GameServer\LuaState.h(14,10): error C1083: Não é possível abrir arquivo incluir: 'luajit\lua.hpp': No such file or directory
+  (compilando o arquivo fonte '/User.cpp')
+  
+  Util.cpp
+  Warehouse.cpp
+C:\ALPHA MU – 5.2 FULL 60 FPS\Source\server-files\GameServer\GameServer\LuaState.h(14,10): error C1083: Não é possível abrir arquivo incluir: 'luajit\lua.hpp': No such file or directory
+  (compilando o arquivo fonte '/Warehouse.cpp')
+  
+  Gerando Código...

@@ -1,0 +1,110 @@
+﻿  stdafx.cpp
+  CCRC32.Cpp
+  Math.cpp
+  380ItemOption.cpp
+  380ItemType.cpp
+  ArcaBattle.cpp
+  Attack.cpp
+  BattleGround.cpp
+  BattleSoccer.cpp
+  BattleSoccerManager.cpp
+  BloodCastle.cpp
+  BonusManager.cpp
+  CannonTower.cpp
+  CashShop.cpp
+  CastleDeep.cpp
+  CastleSiege.cpp
+  CastleSiegeCrown.cpp
+  CastleSiegeCrownSwitch.cpp
+  CastleSiegeSync.cpp
+  CastleSiegeWeapon.cpp
+  ChaosBox.cpp
+  Compilando...
+  ChaosBoxGenesis.cpp
+  ChaosCastle.cpp
+  ClientInformation.cpp
+  ComboSkill.cpp
+  CommandManager.cpp
+  Connection.cpp
+  CriticalSection.cpp
+  Crywolf.cpp
+  CrywolfAltar.cpp
+  CrywolfObjInfo.cpp
+  CrywolfStateTimeInfo.cpp
+  CrywolfStatue.cpp
+  CrywolfSync.cpp
+  CrywolfUtil.cpp
+  CSProtocol.cpp
+  CustomArena.cpp
+  CustomAttack.cpp
+  CustomEventDrop.cpp
+  CustomImmortalPet.cpp
+  CustomJewel.cpp
+  Compilando...
+  CustomJewelStack.cpp
+  CustomMonster.cpp
+  CustomPick.cpp
+  CustomWing.cpp
+  DarkSpirit.cpp
+  DarkSpiritNew.cpp
+  DeathSystem.cpp
+  DefaultClassInfo.cpp
+  DevilSquare.cpp
+  DoubleGoer.cpp
+  DSProtocol.cpp
+  Duel.cpp
+  Effect.cpp
+  EffectManager.cpp
+  ElementSlots.cpp
+  ESProtocol.cpp
+  EventInventory.cpp
+  ExperienceTable.cpp
+  Filter.cpp
+  Fruit.cpp
+  Compilando...
+  GameMain.cpp
+  GameMaster.cpp
+  GameServer.cpp
+  Gate.cpp
+  GensSystem.cpp
+  GuardianStatue.cpp
+  Guild.cpp
+  GuildClass.cpp
+  GuildMatching.cpp
+  HackCheck.cpp
+  HackPacketCheck.cpp
+  HappyHourZen.cpp
+  Helper.cpp
+  IllusionTemple.cpp
+  ImperialGuardian.cpp
+  InvasionManager.cpp
+  InventoryEquipment.cpp
+  IpManager.cpp
+  Item.cpp
+  ItemBag.cpp
+  Compilando...
+  ItemBagEx.cpp
+  ItemBagManager.cpp
+  ItemDrop.cpp
+  ItemManager.cpp
+C:\ALPHA MU – 5.2 FULL 60 FPS\Source\server-files\GameServer\GameServer\IllusionTemple.cpp(2231,1): error C2471: não é possível atualizar banco de dados do programa 'C:\ALPHA MU – 5.2 FULL 60 FPS\Source\server-files\GameServer\GameServer\Release\VoxMu\vc145.pdb'
+  (compilando o arquivo fonte '/IllusionTemple.cpp')
+  
+C:\ALPHA MU – 5.2 FULL 60 FPS\Source\server-files\GameServer\GameServer\ImperialGuardian.cpp(5,10): error C1033: não é possível abrir a base de dados do programa 'C:\ALPHA MU – 5.2 FULL 60 FPS\Source\server-files\GameServer\GameServer\Release\VoxMu\vc145.pdb'
+  (compilando o arquivo fonte '/ImperialGuardian.cpp')
+  
+C:\ALPHA MU – 5.2 FULL 60 FPS\Source\server-files\GameServer\GameServer\InvasionManager.cpp(5,10): error C1033: não é possível abrir a base de dados do programa 'C:\ALPHA MU – 5.2 FULL 60 FPS\Source\server-files\GameServer\GameServer\Release\VoxMu\vc145.pdb'
+  (compilando o arquivo fonte '/InvasionManager.cpp')
+  
+C:\ALPHA MU – 5.2 FULL 60 FPS\Source\server-files\GameServer\GameServer\InventoryEquipment.cpp(5,10): error C1033: não é possível abrir a base de dados do programa 'C:\ALPHA MU – 5.2 FULL 60 FPS\Source\server-files\GameServer\GameServer\Release\VoxMu\vc145.pdb'
+  (compilando o arquivo fonte '/InventoryEquipment.cpp')
+  
+C:\ALPHA MU – 5.2 FULL 60 FPS\Source\server-files\GameServer\GameServer\IpManager.cpp(5,10): error C1033: não é possível abrir a base de dados do programa 'C:\ALPHA MU – 5.2 FULL 60 FPS\Source\server-files\GameServer\GameServer\Release\VoxMu\vc145.pdb'
+  (compilando o arquivo fonte '/IpManager.cpp')
+  
+C:\ALPHA MU – 5.2 FULL 60 FPS\Source\server-files\GameServer\GameServer\Item.cpp(5,10): error C1033: não é possível abrir a base de dados do programa 'C:\ALPHA MU – 5.2 FULL 60 FPS\Source\server-files\GameServer\GameServer\Release\VoxMu\vc145.pdb'
+  (compilando o arquivo fonte '/Item.cpp')
+  
+C:\ALPHA MU – 5.2 FULL 60 FPS\Source\server-files\GameServer\GameServer\ItemBag.cpp(5,10): error C1033: não é possível abrir a base de dados do programa 'C:\ALPHA MU – 5.2 FULL 60 FPS\Source\server-files\GameServer\GameServer\Release\VoxMu\vc145.pdb'
+  (compilando o arquivo fonte '/ItemBag.cpp')
+  

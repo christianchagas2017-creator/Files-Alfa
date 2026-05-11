@@ -1,0 +1,444 @@
+﻿  StdAfx.cpp
+  AutoPotion.cpp
+  BlackWin.cpp
+  BoneManager.cpp
+  BuffColorBK.cpp
+  BuffColorSM.cpp
+  Button.cpp
+  Camera3D.cpp
+  CameraMove.cpp
+  CBTMessageBox.cpp
+  CComGem.cpp
+  CCRC32.cpp
+  CDirection.cpp
+  ChangeRingManager.cpp
+  ChaosGenesis.cpp
+  CharacterList.cpp
+  CharacterManager.cpp
+  CharInfoBalloon.cpp
+  CharInfoBalloonMng.cpp
+  CharMakeWin.cpp
+  CharSelMainWin.cpp
+  CKANTURUDirection.cpp
+  CMVP1stDirection.cpp
+  Controller.cpp
+  CounterItem.cpp
+  CreateFont.cpp
+  CreditWin.cpp
+  CSChaosCastle.cpp
+  CSEventMatch.cpp
+  CSItemOption.cpp
+  CSMapServer.cpp
+  CSParts.cpp
+  CSPetSystem.cpp
+  CSQuest.cpp
+  CSWaterTerrain.cpp
+  CustomBow.cpp
+  CustomCape.cpp
+  Charactername.cpp
+  CustomColorChat.cpp
+  CustomEffects.cpp
+  CustomEye.cpp
+  CustomItemEdge.cpp
+  CustomItemFloor.cpp
+  CustomItemForce.cpp
+  CustomJewel.cpp
+  CustomJewelStack.cpp
+  CustomMeshGlow.cpp
+  CustomModelAction.cpp
+  CustomRingTransform.cpp
+  CustomSetAction.cpp
+  CustomSetEffect.cpp
+  CustomTitleItem.cpp
+  CustomWing.cpp
+  DarkSpirit.cpp
+  DarkSpiritView.cpp
+  DeathStabColor.cpp
+  Descriptions.cpp
+  DisableExcellent.cpp
+  DrawBarItem.cpp
+  DSplaysound.cpp
+  DSwaveIO.cpp
+  DuelMgr.cpp
+  ElementPet.cpp
+  Event.cpp
+  callstackdmp.cpp
+  checkintegrity.cpp
+  ExceptionHandler.cpp
+  html_log.cpp
+  peimage.cpp
+  stdleaf.cpp
+  sysinfo.cpp
+  xortrans.cpp
+  xstreambuf.cpp
+  GambleSystem.cpp
+  GameCensorship.cpp
+  DownloadInfo.cpp
+  FileDownloader.cpp
+  FTPConnecter.cpp
+  HTTPConnecter.cpp
+  InGameShopSystem.cpp
+  MsgBoxIGSBuyConfirm.cpp
+  MsgBoxIGSBuyPackageItem.cpp
+  MsgBoxIGSBuySelectItem.cpp
+  MsgBoxIGSCommon.cpp
+  MsgBoxIGSDeleteItemConfirm.cpp
+  MsgBoxIGSGiftStorageItemInfo.cpp
+  MsgBoxIGSSendGift.cpp
+  MsgBoxIGSSendGiftConfirm.cpp
+  MsgBoxIGSStorageItemInfo.cpp
+  MsgBoxIGSUseBuffConfirm.cpp
+  MsgBoxIGSUseItemConfirm.cpp
+  NewUIInGameShop.cpp
+  BannerInfo.cpp
+  BannerInfoList.cpp
+  BannerListManager.cpp
+  FTPFileDownLoader.cpp
+  Path.cpp
+  WZResult.cpp
+  ListManager.cpp
+  ShopCategory.cpp
+  ShopCategoryList.cpp
+  ShopList.cpp
+  ShopListManager.cpp
+  ShopPackage.cpp
+  ShopPackageList.cpp
+  ShopProduct.cpp
+  ShopProductList.cpp
+  StringMethod.cpp
+  StringToken.cpp
+  GaugeBar.cpp
+  GIPetManager.cpp
+  GlobalBitmap.cpp
+  GM3rdChangeUp.cpp
+  GMAida.cpp
+  GMBattleCastle.cpp
+  GMCryingWolf2nd.cpp
+  GMCrywolf1st.cpp
+  GMDoppelGanger1.cpp
+  GMDoppelGanger2.cpp
+  GMDoppelGanger3.cpp
+  GMDoppelGanger4.cpp
+  GMDuelArena.cpp
+  GMEmpireGuardian1.cpp
+  GMEmpireGuardian2.cpp
+  GMEmpireGuardian3.cpp
+  GMEmpireGuardian4.cpp
+  GMHellas.cpp
+  GMHuntingGround.cpp
+  GMKarutan1.cpp
+  GMNewTown.cpp
+  GMSantaTown.cpp
+  GMSwampOfQuiet.cpp
+  GMUnitedMarketPlace.cpp
+  GM_kanturu_1st.cpp
+  GM_Kanturu_2nd.cpp
+  GM_Kanturu_3rd.cpp
+  GM_PK_Field.cpp
+  GM_Raklion.cpp
+  GOBoid.cpp
+  GuildCache.cpp
+  GuildManager.cpp
+  HealthBar.cpp
+  HelperManager.cpp
+  HelperSystem.cpp
+  HelperView.cpp
+  Hunting.cpp
+  Input.cpp
+  ItemAddOptioninfo.cpp
+  ItemBorder.cpp
+  ItemManager.cpp
+  ItemPosition.cpp
+  ItemSize.cpp
+  KeyGenerater.cpp
+  LoadData.cpp
+  LoadImages.cpp
+  LoadingScene.cpp
+  Local.cpp
+  LoginMainWin.cpp
+  LoginWin.cpp
+  Lua.cpp
+  LuaBMD.cpp
+  LuaCharacter.cpp
+  LuaCharacterObject.cpp
+  LuaCloth.cpp
+  LuaDecrypt.cpp
+  LuaEffects.cpp
+  LuaEffectsNormal.cpp
+  LuaGlobal.cpp
+  LuaInterface.cpp
+  LuaItemObject.cpp
+  LuaObject.cpp
+  LuaOpenFolder.cpp
+  LuaReload.cpp
+  LuaSocket.cpp
+  LuaUser.cpp
+  MapManager.cpp
+  MatchEvent.cpp
+  ZzzMathLib.cpp
+  MessageColor.cpp
+  MixMgr.cpp
+  MonkSystem.cpp
+  MonsterEffect.cpp
+  MonsterGlow.cpp
+  MonsterItem.cpp
+  MonsterName.cpp
+  Monsters.cpp
+  MoveCommandData.cpp
+  MoveWindow.cpp
+  MovieScene.cpp
+  MsgWin.cpp
+  MultiLanguage.cpp
+  NewBloodCastleSystem.cpp
+  NewChaosCastleSystem.cpp
+  NewInventory.cpp
+  NewSounds.cpp
+  NewUI3DRenderMng.cpp
+  NewUIBattleSoccerScore.cpp
+  NewUIBloodCastleEnter.cpp
+  NewUIBloodCastleTime.cpp
+  NewUIBuffWindow.cpp
+  NewUIButton.cpp
+  NewUICastleWindow.cpp
+  NewUICatapultWindow.cpp
+  NewUIChaosCastleTime.cpp
+  NewUICharacterInfoWindow.cpp
+  NewUIChatInputBox.cpp
+  NewUIChatLogWindow.cpp
+  NewUICheckBox.cpp
+  NewUICommandWindow.cpp
+  NewUICommon.cpp
+  NewUICryWolf.cpp
+  NewUICursedTempleEnter.cpp
+  NewUICursedTempleResult.cpp
+  NewUICursedTempleSystem.cpp
+  NewUIDoppelGangerFrame.cpp
+  NewUIDoppelGangerWindow.cpp
+  NewUIDuelWatchMainFrameWindow.cpp
+  NewUIDuelWatchUserListWindow.cpp
+  NewUIDuelWatchWindow.cpp
+  NewUIDuelWindow.cpp
+  NewUIEmpireGuardianNPC.cpp
+  NewUIEmpireGuardianTimer.cpp
+  NewUIEnterDevilSquare.cpp
+  NewUIExchangeLuckyCoin.cpp
+  NewUIFriendWindow.cpp
+  NewUIGatemanWindow.cpp
+  NewUIGateSwitchWindow.cpp
+  NewUIGensRanking.cpp
+  NewUIGoldBowmanLena.cpp
+  NewUIGoldBowmanWindow.cpp
+  NewUIGroup.cpp
+  NewUIGuardWindow.cpp
+  NewUIGuildInfoWindow.cpp
+  NewUIGuildMakeWindow.cpp
+  NewUIHelpWindow.cpp
+  NewUIHeroPositionInfo.cpp
+  NewUIHotKey.cpp
+  NewUIInventoryCtrl.cpp
+  NewUIItemEnduranceInfo.cpp
+  NewUIItemExplanationWindow.cpp
+  NewUIItemMng.cpp
+  NewUIKanturuEvent.cpp
+  NewUILuckyItemWnd.cpp
+  NewUIMainFrameWindow.cpp
+  NewUIManager.cpp
+  NewUIMasterLevel.cpp
+  NewUIMessageBox.cpp
+  NewUIMiniMap.cpp
+  NewUIMixInventory.cpp
+  NewUIMoveCommandWindow.cpp
+  NewUIMyInventory.cpp
+  NewUIMyQuestInfoWindow.cpp
+  NewUIMyShopInventory.cpp
+  NewUINameWindow.cpp
+  NewUINPCDialogue.cpp
+  NewUINPCQuest.cpp
+  NewUINPCShop.cpp
+  NewUIOptionWindow.cpp
+  NewUIPartyInfoWindow.cpp
+  NewUIPartyListWindow.cpp
+  NewUIPetInfoWindow.cpp
+  NewUIPurchaseShopInventory.cpp
+  NewUIQuestProgress.cpp
+  NewUIQuestProgressByEtc.cpp
+  NewUIQuickCommandWindow.cpp
+  NewUIRegistrationLuckyCoin.cpp
+  NewUIRenderNumber.cpp
+  NewUIScrollBar.cpp
+  NewUISeigeWarfare.cpp
+  NewUISetItemExplanation.cpp
+  NewUISiegeWarBase.cpp
+  NewUISiegeWarCommander.cpp
+  NewUISiegeWarObserver.cpp
+  NewUISiegeWarSoldier.cpp
+  NewUISlideWindow.cpp
+  NewUIStorageInventory.cpp
+  NewUISystem.cpp
+  NewUITextBox.cpp
+  NewUITrade.cpp
+  NewUIUnitedMarketPlaceWindow.cpp
+  NewUIWindowMenu.cpp
+  npcBreeder.cpp
+  npcCatapult.cpp
+  npcGateSwitch.cpp
+  Observer.cpp
+  OptionWin.cpp
+  PacketManager.cpp
+  PartyBuff.cpp
+  PartyManager.cpp
+  Patente.cpp
+  PersonalShopTitleImp.cpp
+  PhysicsManager.cpp
+  PlasmaStormColor.cpp
+  PList.cpp
+  PortalMgr.cpp
+  Preview.cpp
+  Protect.cpp
+  ProtectSysKey.cpp
+  ProtocolSend.cpp
+  QuestMng.cpp
+  Reconnect.cpp
+  RenderModel.cpp
+  RuneColorEffect.cpp
+  ServerGroup.cpp
+  ServerInfo.cpp
+  ServerListManager.cpp
+  ServerMsgWin.cpp
+  ServerName.cpp
+  ServerSelWin.cpp
+  ShadowVolume.cpp
+  SideHair.cpp
+  SkillEffectMgr.cpp
+  SkillManager.cpp
+  Slider.cpp
+  SMD.cpp
+  SMD2BMD.cpp
+  SocketSystem.cpp
+  Sprite.cpp
+  SummoneEffect.cpp
+  SummonSystem.cpp
+  SysMenuWin.cpp
+  TestEventMap.cpp
+  TextureScript.cpp
+  CTimCheck.cpp
+  Timer.cpp
+  TradeX.cpp
+  UIControls.cpp
+  UIDefaultBase.cpp
+  UIGateKeeper.cpp
+  UIGuardsMan.cpp
+  UIGuildInfo.cpp
+  UIGuildMaster.cpp
+  UIJewelHarmony.cpp
+  UIManager.cpp
+  UIMapName.cpp
+  UIMng.cpp
+  UIPopup.cpp
+  UISenatus.cpp
+  UIWindows.cpp
+  UsefulDef.cpp
+  DebugAngel.cpp
+  ErrorReport.cpp
+  muConsoleDebug.cpp
+  WindowsConsole.cpp
+  MemoryLock.cpp
+  VisualDescriptions.cpp
+  CustomButtons.cpp
+  NewUICommonMessageBox.cpp
+  NewUICustomMessageBox.cpp
+  WideScreen.cpp
+  Win.cpp
+  WindowTray.cpp
+  WinEx.cpp
+  Winmain.cpp
+  WSctlc.cpp
+  w_BasePet.cpp
+  w_Buff.cpp
+  w_BuffScriptLoader.cpp
+  w_BuffStateSystem.cpp
+  w_BuffStateValueControl.cpp
+  w_BuffTimeControl.cpp
+  w_CharacterInfo.cpp
+  w_CursedTemple.cpp
+  w_MapProcess.cpp
+  w_ObjectInfo.cpp
+  w_PetActionCollecter.cpp
+  w_PetActionCollecter_Add.cpp
+  w_PetActionDemon.cpp
+  w_PetActionRound.cpp
+  w_PetActionStand.cpp
+  w_PetActionUnicorn.cpp
+  w_PetProcess.cpp
+  ZzzAI.cpp
+  ZzzBMD.cpp
+  ZzzCharacter.cpp
+  ZzzEffectBlurSpark.cpp
+  ZzzEffectFireLeave.cpp
+  ZzzEffectJoint.cpp
+  ZzzEffectMagicSkill.cpp
+  ZzzEffectNoUse.cpp
+  ZzzEffectParticle.cpp
+  ZzzEffectPoint.cpp
+  ZzzEffectPointer.cpp
+  zzzeffectsprite.cpp
+  ZzzInfomation.cpp
+  ZzzLodTerrain.cpp
+  zzzMixInvetory.cpp
+  ZzzObject.cpp
+  ZzzOpenData.cpp
+  ZzzOpenglUtil.cpp
+  zzzpath.cpp
+  ZzzTexture.cpp
+  _GlobalFunctions.cpp
+  WSclient.cpp
+  ZzzEffect.cpp
+  ZzzInterface.cpp
+  ZzzInventory.cpp
+  ZzzScene.cpp
+     Criando biblioteca C:\ALPHA MU – 5.2 FULL 60 FPS\Source\main-files\VoxDebug\main.lib e objeto C:\ALPHA MU – 5.2 FULL 60 FPS\Source\main-files\VoxDebug\main.exp
+jpeglib.lib(jaricom.obj) : warning LNK4099: PDB 'jpeg.pdb' não foi encontrado 'jpeglib.lib(jaricom.obj)' ou no 'C:\ALPHA MU – 5.2 FULL 60 FPS\Source\main-files\VoxDebug\jpeg.pdb'; vinculando objeto quando quando sem nenhuma informação de depuração
+jpeglib.lib(jcapimin.obj) : warning LNK4099: PDB 'jpeg.pdb' não foi encontrado 'jpeglib.lib(jcapimin.obj)' ou no 'C:\ALPHA MU – 5.2 FULL 60 FPS\Source\main-files\VoxDebug\jpeg.pdb'; vinculando objeto quando quando sem nenhuma informação de depuração
+jpeglib.lib(jcapistd.obj) : warning LNK4099: PDB 'jpeg.pdb' não foi encontrado 'jpeglib.lib(jcapistd.obj)' ou no 'C:\ALPHA MU – 5.2 FULL 60 FPS\Source\main-files\VoxDebug\jpeg.pdb'; vinculando objeto quando quando sem nenhuma informação de depuração
+jpeglib.lib(jcarith.obj) : warning LNK4099: PDB 'jpeg.pdb' não foi encontrado 'jpeglib.lib(jcarith.obj)' ou no 'C:\ALPHA MU – 5.2 FULL 60 FPS\Source\main-files\VoxDebug\jpeg.pdb'; vinculando objeto quando quando sem nenhuma informação de depuração
+jpeglib.lib(jccoefct.obj) : warning LNK4099: PDB 'jpeg.pdb' não foi encontrado 'jpeglib.lib(jccoefct.obj)' ou no 'C:\ALPHA MU – 5.2 FULL 60 FPS\Source\main-files\VoxDebug\jpeg.pdb'; vinculando objeto quando quando sem nenhuma informação de depuração
+jpeglib.lib(jccolor.obj) : warning LNK4099: PDB 'jpeg.pdb' não foi encontrado 'jpeglib.lib(jccolor.obj)' ou no 'C:\ALPHA MU – 5.2 FULL 60 FPS\Source\main-files\VoxDebug\jpeg.pdb'; vinculando objeto quando quando sem nenhuma informação de depuração
+jpeglib.lib(jcdctmgr.obj) : warning LNK4099: PDB 'jpeg.pdb' não foi encontrado 'jpeglib.lib(jcdctmgr.obj)' ou no 'C:\ALPHA MU – 5.2 FULL 60 FPS\Source\main-files\VoxDebug\jpeg.pdb'; vinculando objeto quando quando sem nenhuma informação de depuração
+jpeglib.lib(jchuff.obj) : warning LNK4099: PDB 'jpeg.pdb' não foi encontrado 'jpeglib.lib(jchuff.obj)' ou no 'C:\ALPHA MU – 5.2 FULL 60 FPS\Source\main-files\VoxDebug\jpeg.pdb'; vinculando objeto quando quando sem nenhuma informação de depuração
+jpeglib.lib(jcinit.obj) : warning LNK4099: PDB 'jpeg.pdb' não foi encontrado 'jpeglib.lib(jcinit.obj)' ou no 'C:\ALPHA MU – 5.2 FULL 60 FPS\Source\main-files\VoxDebug\jpeg.pdb'; vinculando objeto quando quando sem nenhuma informação de depuração
+jpeglib.lib(jcmainct.obj) : warning LNK4099: PDB 'jpeg.pdb' não foi encontrado 'jpeglib.lib(jcmainct.obj)' ou no 'C:\ALPHA MU – 5.2 FULL 60 FPS\Source\main-files\VoxDebug\jpeg.pdb'; vinculando objeto quando quando sem nenhuma informação de depuração
+jpeglib.lib(jcmarker.obj) : warning LNK4099: PDB 'jpeg.pdb' não foi encontrado 'jpeglib.lib(jcmarker.obj)' ou no 'C:\ALPHA MU – 5.2 FULL 60 FPS\Source\main-files\VoxDebug\jpeg.pdb'; vinculando objeto quando quando sem nenhuma informação de depuração
+jpeglib.lib(jcmaster.obj) : warning LNK4099: PDB 'jpeg.pdb' não foi encontrado 'jpeglib.lib(jcmaster.obj)' ou no 'C:\ALPHA MU – 5.2 FULL 60 FPS\Source\main-files\VoxDebug\jpeg.pdb'; vinculando objeto quando quando sem nenhuma informação de depuração
+jpeglib.lib(jcomapi.obj) : warning LNK4099: PDB 'jpeg.pdb' não foi encontrado 'jpeglib.lib(jcomapi.obj)' ou no 'C:\ALPHA MU – 5.2 FULL 60 FPS\Source\main-files\VoxDebug\jpeg.pdb'; vinculando objeto quando quando sem nenhuma informação de depuração
+jpeglib.lib(jcparam.obj) : warning LNK4099: PDB 'jpeg.pdb' não foi encontrado 'jpeglib.lib(jcparam.obj)' ou no 'C:\ALPHA MU – 5.2 FULL 60 FPS\Source\main-files\VoxDebug\jpeg.pdb'; vinculando objeto quando quando sem nenhuma informação de depuração
+jpeglib.lib(jcprepct.obj) : warning LNK4099: PDB 'jpeg.pdb' não foi encontrado 'jpeglib.lib(jcprepct.obj)' ou no 'C:\ALPHA MU – 5.2 FULL 60 FPS\Source\main-files\VoxDebug\jpeg.pdb'; vinculando objeto quando quando sem nenhuma informação de depuração
+jpeglib.lib(jcsample.obj) : warning LNK4099: PDB 'jpeg.pdb' não foi encontrado 'jpeglib.lib(jcsample.obj)' ou no 'C:\ALPHA MU – 5.2 FULL 60 FPS\Source\main-files\VoxDebug\jpeg.pdb'; vinculando objeto quando quando sem nenhuma informação de depuração
+jpeglib.lib(jdapimin.obj) : warning LNK4099: PDB 'jpeg.pdb' não foi encontrado 'jpeglib.lib(jdapimin.obj)' ou no 'C:\ALPHA MU – 5.2 FULL 60 FPS\Source\main-files\VoxDebug\jpeg.pdb'; vinculando objeto quando quando sem nenhuma informação de depuração
+jpeglib.lib(jdapistd.obj) : warning LNK4099: PDB 'jpeg.pdb' não foi encontrado 'jpeglib.lib(jdapistd.obj)' ou no 'C:\ALPHA MU – 5.2 FULL 60 FPS\Source\main-files\VoxDebug\jpeg.pdb'; vinculando objeto quando quando sem nenhuma informação de depuração
+jpeglib.lib(jdarith.obj) : warning LNK4099: PDB 'jpeg.pdb' não foi encontrado 'jpeglib.lib(jdarith.obj)' ou no 'C:\ALPHA MU – 5.2 FULL 60 FPS\Source\main-files\VoxDebug\jpeg.pdb'; vinculando objeto quando quando sem nenhuma informação de depuração
+jpeglib.lib(jdatadst.obj) : warning LNK4099: PDB 'jpeg.pdb' não foi encontrado 'jpeglib.lib(jdatadst.obj)' ou no 'C:\ALPHA MU – 5.2 FULL 60 FPS\Source\main-files\VoxDebug\jpeg.pdb'; vinculando objeto quando quando sem nenhuma informação de depuração
+jpeglib.lib(jdatasrc.obj) : warning LNK4099: PDB 'jpeg.pdb' não foi encontrado 'jpeglib.lib(jdatasrc.obj)' ou no 'C:\ALPHA MU – 5.2 FULL 60 FPS\Source\main-files\VoxDebug\jpeg.pdb'; vinculando objeto quando quando sem nenhuma informação de depuração
+jpeglib.lib(jdcoefct.obj) : warning LNK4099: PDB 'jpeg.pdb' não foi encontrado 'jpeglib.lib(jdcoefct.obj)' ou no 'C:\ALPHA MU – 5.2 FULL 60 FPS\Source\main-files\VoxDebug\jpeg.pdb'; vinculando objeto quando quando sem nenhuma informação de depuração
+jpeglib.lib(jdcolor.obj) : warning LNK4099: PDB 'jpeg.pdb' não foi encontrado 'jpeglib.lib(jdcolor.obj)' ou no 'C:\ALPHA MU – 5.2 FULL 60 FPS\Source\main-files\VoxDebug\jpeg.pdb'; vinculando objeto quando quando sem nenhuma informação de depuração
+jpeglib.lib(jddctmgr.obj) : warning LNK4099: PDB 'jpeg.pdb' não foi encontrado 'jpeglib.lib(jddctmgr.obj)' ou no 'C:\ALPHA MU – 5.2 FULL 60 FPS\Source\main-files\VoxDebug\jpeg.pdb'; vinculando objeto quando quando sem nenhuma informação de depuração
+jpeglib.lib(jdhuff.obj) : warning LNK4099: PDB 'jpeg.pdb' não foi encontrado 'jpeglib.lib(jdhuff.obj)' ou no 'C:\ALPHA MU – 5.2 FULL 60 FPS\Source\main-files\VoxDebug\jpeg.pdb'; vinculando objeto quando quando sem nenhuma informação de depuração
+jpeglib.lib(jdinput.obj) : warning LNK4099: PDB 'jpeg.pdb' não foi encontrado 'jpeglib.lib(jdinput.obj)' ou no 'C:\ALPHA MU – 5.2 FULL 60 FPS\Source\main-files\VoxDebug\jpeg.pdb'; vinculando objeto quando quando sem nenhuma informação de depuração
+jpeglib.lib(jdmainct.obj) : warning LNK4099: PDB '' não foi encontrado 'jpeglib.lib(jdmainct.obj)' ou no ''; vinculando objeto quando quando sem nenhuma informação de depuração
+jpeglib.lib(jdmarker.obj) : warning LNK4099: PDB 'jpeg.pdb' não foi encontrado 'jpeglib.lib(jdmarker.obj)' ou no 'C:\ALPHA MU – 5.2 FULL 60 FPS\Source\main-files\VoxDebug\jpeg.pdb'; vinculando objeto quando quando sem nenhuma informação de depuração
+jpeglib.lib(jdmaster.obj) : warning LNK4099: PDB 'jpeg.pdb' não foi encontrado 'jpeglib.lib(jdmaster.obj)' ou no 'C:\ALPHA MU – 5.2 FULL 60 FPS\Source\main-files\VoxDebug\jpeg.pdb'; vinculando objeto quando quando sem nenhuma informação de depuração
+jpeglib.lib(jdmerge.obj) : warning LNK4099: PDB 'jpeg.pdb' não foi encontrado 'jpeglib.lib(jdmerge.obj)' ou no 'C:\ALPHA MU – 5.2 FULL 60 FPS\Source\main-files\VoxDebug\jpeg.pdb'; vinculando objeto quando quando sem nenhuma informação de depuração
+jpeglib.lib(jdpostct.obj) : warning LNK4099: PDB 'jpeg.pdb' não foi encontrado 'jpeglib.lib(jdpostct.obj)' ou no 'C:\ALPHA MU – 5.2 FULL 60 FPS\Source\main-files\VoxDebug\jpeg.pdb'; vinculando objeto quando quando sem nenhuma informação de depuração
+jpeglib.lib(jdsample.obj) : warning LNK4099: PDB 'jpeg.pdb' não foi encontrado 'jpeglib.lib(jdsample.obj)' ou no 'C:\ALPHA MU – 5.2 FULL 60 FPS\Source\main-files\VoxDebug\jpeg.pdb'; vinculando objeto quando quando sem nenhuma informação de depuração
+jpeglib.lib(jerror.obj) : warning LNK4099: PDB 'jpeg.pdb' não foi encontrado 'jpeglib.lib(jerror.obj)' ou no 'C:\ALPHA MU – 5.2 FULL 60 FPS\Source\main-files\VoxDebug\jpeg.pdb'; vinculando objeto quando quando sem nenhuma informação de depuração
+jpeglib.lib(jfdctflt.obj) : warning LNK4099: PDB 'jpeg.pdb' não foi encontrado 'jpeglib.lib(jfdctflt.obj)' ou no 'C:\ALPHA MU – 5.2 FULL 60 FPS\Source\main-files\VoxDebug\jpeg.pdb'; vinculando objeto quando quando sem nenhuma informação de depuração
+jpeglib.lib(jfdctfst.obj) : warning LNK4099: PDB 'jpeg.pdb' não foi encontrado 'jpeglib.lib(jfdctfst.obj)' ou no 'C:\ALPHA MU – 5.2 FULL 60 FPS\Source\main-files\VoxDebug\jpeg.pdb'; vinculando objeto quando quando sem nenhuma informação de depuração
+jpeglib.lib(jfdctint.obj) : warning LNK4099: PDB 'jpeg.pdb' não foi encontrado 'jpeglib.lib(jfdctint.obj)' ou no 'C:\ALPHA MU – 5.2 FULL 60 FPS\Source\main-files\VoxDebug\jpeg.pdb'; vinculando objeto quando quando sem nenhuma informação de depuração
+jpeglib.lib(jidctflt.obj) : warning LNK4099: PDB 'jpeg.pdb' não foi encontrado 'jpeglib.lib(jidctflt.obj)' ou no 'C:\ALPHA MU – 5.2 FULL 60 FPS\Source\main-files\VoxDebug\jpeg.pdb'; vinculando objeto quando quando sem nenhuma informação de depuração
+jpeglib.lib(jidctfst.obj) : warning LNK4099: PDB 'jpeg.pdb' não foi encontrado 'jpeglib.lib(jidctfst.obj)' ou no 'C:\ALPHA MU – 5.2 FULL 60 FPS\Source\main-files\VoxDebug\jpeg.pdb'; vinculando objeto quando quando sem nenhuma informação de depuração
+jpeglib.lib(jidctint.obj) : warning LNK4099: PDB 'jpeg.pdb' não foi encontrado 'jpeglib.lib(jidctint.obj)' ou no 'C:\ALPHA MU – 5.2 FULL 60 FPS\Source\main-files\VoxDebug\jpeg.pdb'; vinculando objeto quando quando sem nenhuma informação de depuração
+jpeglib.lib(jmemmgr.obj) : warning LNK4099: PDB 'jpeg.pdb' não foi encontrado 'jpeglib.lib(jmemmgr.obj)' ou no 'C:\ALPHA MU – 5.2 FULL 60 FPS\Source\main-files\VoxDebug\jpeg.pdb'; vinculando objeto quando quando sem nenhuma informação de depuração
+jpeglib.lib(jmemnobs.obj) : warning LNK4099: PDB 'jpeg.pdb' não foi encontrado 'jpeglib.lib(jmemnobs.obj)' ou no 'C:\ALPHA MU – 5.2 FULL 60 FPS\Source\main-files\VoxDebug\jpeg.pdb'; vinculando objeto quando quando sem nenhuma informação de depuração
+jpeglib.lib(jquant1.obj) : warning LNK4099: PDB 'jpeg.pdb' não foi encontrado 'jpeglib.lib(jquant1.obj)' ou no 'C:\ALPHA MU – 5.2 FULL 60 FPS\Source\main-files\VoxDebug\jpeg.pdb'; vinculando objeto quando quando sem nenhuma informação de depuração
+jpeglib.lib(jquant2.obj) : warning LNK4099: PDB 'jpeg.pdb' não foi encontrado 'jpeglib.lib(jquant2.obj)' ou no 'C:\ALPHA MU – 5.2 FULL 60 FPS\Source\main-files\VoxDebug\jpeg.pdb'; vinculando objeto quando quando sem nenhuma informação de depuração
+jpeglib.lib(jutils.obj) : warning LNK4099: PDB 'jpeg.pdb' não foi encontrado 'jpeglib.lib(jutils.obj)' ou no 'C:\ALPHA MU – 5.2 FULL 60 FPS\Source\main-files\VoxDebug\jpeg.pdb'; vinculando objeto quando quando sem nenhuma informação de depuração
+  Main.vcxproj -> C:\ALPHA MU – 5.2 FULL 60 FPS\Source\main-files\VoxDebug\main.exe
